@@ -98,3 +98,6 @@ def getPunPartners(word, w2p=None, p2w=None):
         for p in w2p[word]:
             out.extend(p2w[p])
     return sorted(list(set(out)))
+
+    
+print getPunPartners("denial")
