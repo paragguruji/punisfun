@@ -85,6 +85,7 @@ def getPunPartners(word, w2p=None, p2w=None):
         :arg: w2p: word-to-pronunciations-map (default: generate on fly)
         :arg: p2w: pronunciation-to-words-map (default: generate on fly)
     """
+    word = word.strip().lower()
     if not w2p:
         w2p = readFromJsonFile('w2p.dict')
         if not w2p:
@@ -93,7 +94,7 @@ def getPunPartners(word, w2p=None, p2w=None):
         p2w = readFromJsonFile('p2w.dict')
         if not p2w:
             p2w = mapPronunciationToWords()
-    out = []
+    out = [word]
     if word in w2p:
         for p in w2p[word]:
             out.extend(p2w[p])
