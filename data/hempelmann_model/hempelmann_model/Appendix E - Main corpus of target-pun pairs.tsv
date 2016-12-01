@@ -1,0 +1,1183 @@
+no.	pun	target	pun phon	target phon	idiomaticity	page no.	grammaticality	remark	dialect	POS pun	POS target	x	sum cost	sum/phon.	stress shift	syllable no.
+1	hence	hens	hEns	hEnz		110	T	what?		CJS	NN2		0.07	0.0175		
+2	neither	nether	niD0r	nED0r	coll. nether world	158	T			PNI	NN1	R	0.28	0.056		
+3	and loaf	alone	0nl5f	0.l5n	idiom live by bread alone	140	B			CJS NN1	AV0	E+	0.76	0.152		
+4	dun her	dinner	d^n0r	dIn0r	title man who came to dinner (Moss)	71	B			VVB PNP	NN1	Q+	0.29	0.058		
+5	kama	camel	kam0.	k&m0l	coll. made of camel hair	128	T			UNC	NN1	I	0.26	0.052		
+6	kith	kiss	kIT	kIs	idiom kissing cousins	130	T			NN1	NN1	C+	0.11	0.036666665		
+7	miaow	me how	mi.2	mih2		149	T			ITJ	PNP AVQ		0.07	0.0175		
+8	N	end	En.	End	coll. end man	156	T	see also Nero		ZZ0	NN1	R	0.09	0.03		
+9	spoorious	spurious	sp.8ri0s	spjuri0s	coll. spurious claim	217	B			AJ0	AJ0	C	0.38	0.0475		
+10	vasted	vested	v&stId	vEstId	coll. vested interest	243	T			AJ0	AJ0	C	0.19	0.031666666		
+11	abdominal	abominable	0bdamIn..l	0b.amIn0bl	coll. abominable snowman	5	B			AJ0	AJ0	C	0.39	0.039		
+12	acidic	I see Dick	0sIdIk	1sidIk		7	ne			AJ0	PNP VVB NP0		0.35	0.058333334	e	
+13	acoustic	a cue stick	0k.ustIk	0kjustIk	coll. cue stick	7	ne			AJ0	AT0 NN1 NN1	R	0.09	0.01125		
+14	adamant	Adam and	&d0m0nt	&d0m0nd	coll. Adam and Eve	7	ne			AJ0	NP0 CJC	B	0.11	0.015714286		
+15	alike	I like	0l1k	1l1k	idiom I like to think so	10	T	adnominatio		AJ0	PNP VVB	I+	0.2	0.05		
+16	alimentary	elementary	&l0mEn?0rI	El0mEn?0rI	quote elementary, my dear watson	10	B	what?		AJ0	AJ0	Q+	0.19	0.019		
+17	artesian	a-teasin'	0rtiZ0n	0.tiz0n		16	T	a-Xing prefix		AJ0	VVG		0.41	0.058571428		
+18	awkward	hawk ward	.Okw0rd	hOkwOrd	_def.	20	ne			AJ0	NN1 NN1		0.32	0.045714285		
+19	backward	back ward	b&kw0rd	b&kwOrd	_def.	22	ne			AJ0	NN0 NN1		0.25	0.035714287		
+20	bellicose	belly 'cause	bElIk5s	bElIkOz		28	T			AJ0	NN1 CJC		0.33	0.047142856	l	
+21	bellicose	very close	bElIk.5s	vErIkl5s	_def.	28	ne		Chinese	AJ0	AV0 AJ0		0.37	0.04625		
+22	benign	be nine	bIn1n	bin1n	_def.	28	ne			AJ0	VBI CRD		0.15	0.03		
+23	boisterous	boys to us	b3st0r0s	b3zt0.0s		32	T			AJ0	NN2 PRP PNP		0.1	0.0125		
+24	bonkers	yonkers	baNk0rz	jaNk0rz	_def.	32	ne			AJ0	NP0		0.66	0.09428571		
+25	brief	beef	brif	b.if	coll. beefeater	35	B			AJ0	NN0	R	0.03	0.0075		
+26	chary	cherry	C7rI	CErI	coll. cherry picker	46	B			AJ0	NN1	R	0.29	0.0725		
+27	chic	cheek	Sik	Cik	idiom tongue in cheek	47	T			AJ0	NN1	I+	0.15	0.05		
+28	coined	kind	k3nd	k1nd	idiom my kinda girl	51	T			AJ0	NN1	I+	0.28	0.07		
+29	comical	chemical	kamIk0l	kEmIk0l	coll. chemical combination	52	B			AJ0	AJ0	C	0.27	0.03857143		
+30	consecrated	concentrated	kans0.kr4tId	kans0ntr4tId	coll. concentrated lye	54	B			AJ0	AJ0	C	0.24	0.02		
+31	contrite	can't write	k0ntr1t	k&ntr1t		54	T			AJ0	VM0 NN0 VVB		0.24	0.034285713		
+32	covert	cover	k5v9rt	k^v0r.	idiom from cover to cover	57	T	eye-pun		AJ0	NN1	E+	0.64	0.10666667	l	
+33	curly	pearly	k9rlI	p9rlI	coll. Pearly Gates	60	B			AJ0	AJ0	R	0.23	0.046		
+34	curtain	certain	k9r?0n	s9r?0n	idiom a certain something	61	B			AJ0	AJ0	T+	0.27	0.045		
+35	disgusting	this gusting	dIsg^stIN	DIsg^stIN		67	T	absolutely no 2nd script		AJ0	DT0 AJ0		0.05	0.0055555557		
+36	dismal	decimal	dIz.m0l	dEsIm0l	_def.	68	B			AJ0	NN1		0.38	0.054285713		
+37	dour	our	d20r	.20r	title Oh God, our help...	69	B			AJ0	DPS	Q+	0.11	0.0275		
+38	elementary	alimentary	El0mEnt0rI	&l0mEnt0rI	coll. alimentary canal	75	B			AJ0	AJ0	C	0.2	0.02		
+39	erotic	erratic	0ra?Ik	0r&?Ik	coll. erratic behavior	78	B			AJ0	AJ0	C	0.18	0.03		
+40	erroneous	erogenous	0r5..ni0s	0raJ0n.0s	coll. erotic zones	78	B	so many constraints so little diff!!??		AJ0	AJ0	C	0.99	0.11		
+41	eternal	internal	i.t9rn0l	Int9rn0l	coll. internal medicine	79	B			AJ0	AJ0	C	0.2	0.025		
+42	evanescent	if it isn't	Ev0nEs0nt	If0dIz0nt	idiom if it isn't my old pal	80	T			AJ0	CJS PNP VBZ XX0	I+	1.04	0.115555555		
+43	evil	he will	.ivIl	hiwIl		80	T			AJ0	PNP VM0		0.15	0.03		
+44	fallow	fellow	f&l5	fEl5	coll. fellow Americans	84	B			AJ0	AJ0	C	0.19	0.0475		
+45	fecund	second	fik0nd	sEk0nd	coll. second nature	85	B			AJ0	ORD	C	0.55	0.09166667		
+46	flair	fair	fl7r	f.7r	title my fair lady	88	B			AJ0	AJ0	Q+	0.06	0.015		
+47	fortunate	fortune	fOrC0n0t	fOrC0n..	coll. fortune cookie	92	B			AJ0	NN1	R	0.11	0.01375		1
+48	fragrant	flagrant	fr4gr0nt	fl4gr0nt	coll. flagrant error	92	B			AJ0	AJ0	C	0.13	0.01625		
+49	froggy	foggy	fragI	f.agI	title A Foggy Day in London Town (Gershwin)	93	B			AJ0	AJ0	Q+	0.03	0.006		
+50	frozen	chosen	fr5z0n	C.5z0n	idiom God's chosen people	94	B			AJ0	AJ0	Q+	1.03	0.17166667		
+51	fundamental	from the mantel	f.^nd0mEn?0l	fr0mD0m&n?0l		94	T	what?		AJ0	PRP AT0 NN1		0.71	0.059166666		
+52	hard	heart	hard	hart	proverb home is where the heart is	107	T	what?		AJ0	NN1	S+	0.09	0.0225		
+53	hollow	hello	hal5	hEl5		112	ne			AJ0	ITJ		0.27	0.0675		
+54	impotent	important	Imp0.t0nt	ImpOr?0nt	idiom important moment in history	118	B			AJ0	AJ0	I+	0.46	0.05111111	e	
+55	insufferable	inseparable	Ins^f0r0b0l	InsEp0r0b0l	coll. inseperable friends	120	B			AJ0	AJ0	C	0.49	0.044545453		
+56	invisible	visible	InvIs0b0l	..vIs0b0l	idiom no visible means of support	121	B	# of syllables different		AJ0	AJ0	I+	0.2	0.022222223		1
+57	juvenile	javelin	Juv0n1l	J&v.lIn	_def.	127	T	# of syllables different		AJ0	NN1		1.16	0.16571428		
+58	lesbian	let's be an	lE.zbi0n	lEtsbi0n		136	T			AJ0	VVB PNP VBI AT0		0.14	0.0175		
+59	marrowing	harrowing	m&r5wIN	h&r5wIN	coll. a harrowing experience	147	B			AJ0	AJ0	C	0.38	0.054285713		
+60	meager	eager	mig0r	.ig0r	proverb an early winter makes ... ?	148	B			AJ0	AJ0	S+	0.14	0.028		
+61	menstrual	minstrel	mEnstr0l	mInstr0l	title lay of the last minstrel (Walter Scott)	148	T			AJ0	NN1	Q+	0.21	0.02625		1
+62	morose	rose	m0r5s	..r5z	coll. rose-colored glasses	153	T	# of syllables different		AJ0	NN1	C	0.25	0.05		1
+63	nasal	naval	n4z0l	n4v0l		157	B			AJ0	AJ0		0.52	0.104		
+64	natty	naughty	n&?I	nO?I	coll. naughty boy	157	B			AJ0	AJ0	C	0.27	0.0675		
+65	nautical	naughty	nO?Ik0l	nO?I...	idiom that's very naughty of them	157	B	# of syllables different		AJ0	AJ0	I+	0.2	0.028571429		1
+66	nee	non	ni.	nan	coll. non plus ultra	158	T	morpheme only		AJ0	UNC	F	0.39	0.13		
+67	nixed	mixed	nIkst	mIkst	coll. mixed emotions	160	B			AJ0	AJ0	C	0.14	0.028		
+68	numb	dumb	n^m	d^m	coll. dumb blonde	162	B			AJ0	AJ0	C	0.38	0.12666667		
+69	odd	old	a.d	5ld	proverb old soldiers never die	164	B			AJ0	AJ0	S+	0.33	0.11		
+70	opportune	opera tune	ap0r.tjun	ap.r0tjun	coll. opera tune	165	ne			AJ0	NN0 NN1	R	2	0.25	l	
+71	orange	arrange	OrInJ	0r4nJ	coll. arrange one's life	119	T	see indigo		AJ0	VVB	I	0.55	0.11	e	
+72	passable	possible	p&s0b0l	pas0b0l	proverb politics is the art of the possible	171	B			AJ0	AJ0	S+	0.23	0.032857142		
+73	penal	penile	pin0l	pin1l	_def.	173	B	WS had penial-penal		AJ0	AJ0		0.2	0.04		
+74	platonic	tonic	pl0tanIk	...tanIk		178	T	odd, just ∑ inserted		AJ0	NN1		0.26	0.0325		1
+75	polite	lighted	p0l1t..	..l1?Id		178	B	to make a polite entrance the pun is on "entrance:" door vs. entering		AJ0	AJ0		0.57	0.08142857	l	
+76	prostituting	prosecuting	prast0tjutIN	pras.0kjutIN	coll. prosecuting attorney	183	B			AJ0	AJ0	R	0.23	0.019166667		
+77	pubic	public	pjub.Ik	p.^blIk	coll. public-opinion poll	184	B			AJ0	AJ0	R	0.46	0.065714285		
+78	pubic	cubic	pjubIk	kjubIk	coll. cubic centimeter	184	B	sentimeter?		AJ0	AJ0	C	0.24	0.04		
+79	quaint	ain't	kw4nt	..4nt	idiom appears to be what it ain't	188	T			AJ0	VBB XX0	E+	0.21	0.042		
+80	quibbling	sibling	kwIblIN	s.IblIN	coll. sibling rivalry	188	B			AJ0	NN1	R	0.38	0.054285713		
+81	quipping	whipping	kwIpIN	.wIpIN	coll. whipping boy	189	B			AJ0	AJ0	R	0.1	0.016666668		
+82	rare	pear	r7r	p7r	quote a partrigde in a pear tree	218	B	see spree		AJ0	NN1	Q+	0.66	0.22		
+83	reclining	declining	rIkl1nIN	dIkl1nIN	coll. the declining years	193	B			AJ0	AJ0	C	0.44	0.055		
+84	rhymed	rind	r1md	r1nd	coll. orange rind	196	B			AJ0	NN1	R	0.11	0.0275		
+85	rid	red	rId	rEd	coll. red-letter day	197	B			AJ0	AJ0	R	0.2	0.06666667		
+86	rile	real	r1l	ril		197	B		Irish accent	AJ0	AJ0		0.3	0.1		
+87	rued	road	rud	r5d		199	B			AJ0	NN1		0.27	0.09		
+88	runed	ruined	ru.nd	ruInd		200	B			AJ0	AJ0		0.11	0.022		
+89	short	sort	SOrt	sOrt	coll. that sort of thing	210	T	*Ident(man) sucks b/c everything else is Ident, sounds similar		AJ0	NN1	I	0.09	0.0225		
+90	sinister	spinster	s.InIst0r	spIn.st0r	_def.	211	ne			AJ0	NN1		0.34	0.037777778		1
+91	snaky	shaky	sn4kI	S.4kI		214	B			AJ0	AJ0		0.27	0.054		
+92	sordid	assorted	.sOrdId	0sOrtId	coll. assorted flavors	215	B			AJ0	AJ0	C	0.16	0.022857143		-1
+93	sour	our	s20r	.20r	idiom ... is our heritage	216	B			AJ0	DPS	E+	0.08	0.02		
+94	stationary	station	st4S.n7rI	st4S0n...	coll. station wagon	219	B			AJ0	NN1	R	1.2	0.13333334		2
+95	terse	Thurs(day)	t9rs	T9rz		229	B		some dialect?	AJ0	NP0		0.25	0.0625		
+96	tintative	tentative	tIn?0tIv	tEn?0tIv		119	B	P non-word		AJ0	AJ0		0.2	0.025		
+97	tortuous	thought she was	tOrCu.0s	TOtSiw0z		234	T	Ident(voic)-Sc/V_#		AJ0	VVD PNP VBD		1.21	0.15125		
+98	touring	towering	t8rIN	t2rIN	idiom mountains towering among the clouds	234	B			AJ0	AJ0	E+	0.3	0.06		
+99	tropical	topical	trapIk0l	t.apIk0l	coll. topical subject	236	B	what?		AJ0	AJ0	C	0.03	0.00375		
+100	utter	butter	.^?0r	b^?0r	coll.s bread and butter utter nonsense	241	B	interesting collocation interaction		AJ0	NP0	B	0.21	0.042		
+101	vapid	rapid	v&pId	r&pId	coll. rapid transit system	243	B			AJ0	AJ0	R	0.44	0.088		
+102	vast	west	v&st	wEst	coll. West Point	243	B			AJ0	NN1	R	0.27	0.0675		
+103	half vast	half-assed	h&f&st	h&f&sd	coll. half-assed	243	B			AJ0	AJ0	R	0.11	0.018333333		
+104	vicarious	why carry us	v1k7ri0s	w1k7rI0s		245	T			AJ0	AVQ VVB PNP		0.18	0.0225		
+105	vicious	wishes	vIS0s	wIS0z	idiom best wishes for a merry christmas	245	T			AJ0	NN2	I+	0.15	0.03		
+106	vocal	local	v5k0l	l5k0l	coll. local anesthetic	246	B			AJ0	AJ0	C	0.44	0.088		
+107	vulgar	Volga	v^lg0r	valg0.	title the Volga boatman	247	B			AJ0	NP0	Q+	0.29	0.048333332		
+108	vying	dying	v1IN	d1IN	coll. a dying breed	247	B			AJ0	AJ0	C	0.44	0.11		
+109	weird	word	w6rd	w9rd	idiom word of mouth	251	T			AJ0	NN1	I+	0.3	0.075		
+110	wrangled	spangled	r.&Ng0ld	sp&Ng0ld	coll. star-spangled banner	256	B			AJ0	AJ0	C	0.9	0.1125		
+111	a cute	acute	0kjut	0kjut		186	B	see pyorrhea		AT0 AJ0	AJ0		0	0		
+112	not T.	naughty	nati	nO?I		225	B			XX0 ZZ0	AJ0		0.51	0.1275		
+113	old boys	oboes	5ldb3z	5..b5z		245	B	see vile		AJ0 NN2	NN2		0.46	0.07666667		
+114	Indian pendants	independence	Indi0npEnd0ns	Ind.0.pEnd0ns	coll. declaration of independence	172	B	see pendant		AJ0 NN1	NN1	I	0.23	0.017692307		
+115	one's cone	one stone	w^nsk5n	w^nst5n	proverb kill two birds with one stone	53	B			PNP POS NN1	CRD NN1	S+	0.14	0.02		
+116	past man	postman	p&stm&n	p5stm0n	title the postman always rings twice	171	B			AJ0 NN1	NN1	Q+	0.52	0.074285716		
+117	carafe tea	crafty	k0r&fti	k.r&ftI		43	B			AJ0 NN0	AJ0		0.14	0.02		
+118	sore shearer	sorcerer	sOrS6r0r	sOrs0r0r	coll. sorcerer's apprentice	215	B			AJ0 NN1	NN1	R	0.39	0.04875	l	
+119	amphibian	I'm fibbing	0mfIbi0n	1mfIb.0N	idiom you think I'm fibbing, do you?	12	B	Adv -> subordinate phrase		AV0	PNP VBB VVG	E+	0.47	0.05875		
+120	farther	father	farD0r	fa.D0r	coll. step father	84	P	Target not synt,3 ???		AV0	NN1	R	0.03	0.005		
+121	fit	fifth	fI.t	fIfT		88	B			AV0	AV0		0.62	0.155		
+122	innuendo	in the window	InjuwEnd5	InD0wInd5		120	T			AV0	PRP AT0 NN1		1.47	0.16333333		
+123	internal	eternal	0nt9rn0l	0.t9rn0l	title hope springs eternal	121	ne			AV0	AV0	Q+	0.1	0.0125		
+124	lying	lion	l1IN	l10n	coll. Richard the Lionhearted	256	B	see wretched		AV0	NN1	I	0.2	0.05		
+125	right	night	r1t	n1t	title I could have danced all night	197	B			AV0	NN1	Q+	0.31	0.10333333		
+126	sad	sat	s&d	s&t		201	B			AV0	VVD		0.09	0.03		
+127	violetly	violently	v10lI.tlI	v10l0ntlI		118	B	see indigo		AV0	AV0		0.11	0.012222222		
+128	wound	round	w2nd	r2nd	idiom see you around	255	B			AV0	AV0	I+	0.14	0.035		
+129	afire	of fire	0f1r	Of1r	coll. pillar of fire	176	B	see pillow		AV0	PRP NN1	I	0	0		
+130	mine eyes	mayonnaise	m1.n1z	m40n4z	_def.	150	ne			AJ0 NN2	NN1		0.61	0.10166667		
+131	blight	bite	bl1t	b.1t	idiom his bark is worse than his bite	31	B			NN1	NN1	E+	0.06	0.015		
+132	dink	link	dINk	lINk	coll. weakest link	67	B			NN1	NN1	C	0.44	0.11		
+133	estrangers	strangers	Estr4nJ0rz	.str4nJ0rz	title strangers in the night	79	B			NN2	NN2	Q+	0.38	0.038		1
+134	par	pa	par	pa.		169	B	WS had par-pear		UNC	NN1		0.03	0.01		
+135	each	itch	iC	IC	_def.	73	ne	no 2nd script		AT0	NN1		0.1	0.05		
+136	a llama	alarm her	0la.m0.	0larm0r		140	T			AT0 NN1	VVB PNP		0.08	0.011428571		
+137	aloof	a roof	0luf	0ruf	_def.	11	ne		Chinese	UNC	AT0 NN1		0.11	0.0275		
+138	a nymph	(a)n imp	0nImf	0nImp	hare lip cleft palate talk	162	B			AT0 NN1	AT0 NN1		0.23	0.046		
+139	a tea daze	80 days	0tid4z	4?Id4z	title around the world in 80 days	63	B			AT0 NN0 NN1	CRD NN2	Q+	0.55	0.09166667	l	
+140	a ghost	aghast	0g5st	0gast	idiom be aghast at something	97	B			AT0 NN1	AJ0	I+	0.27	0.054		
+141	a swan	as one	0swan	0sw^n	title two hearts that beat as one	223	B	word boundaries differ pun->target		AT0 NN1	PRP PN1	Q+	0.21	0.042		
+142	a tome	at home	0t.5m	0th5m	idiom feel at home	233	B	word boundaries diff. pun->target		AT0 NN1	PRP NN1	I+	0.07	0.014		
+143	a goon	a-gone	0gun	0gan	title Gone with the Wind	100	B	title mangled, ouch		AT0 NN1	VVN	Q+	0.29	0.0725		
+144	a Freud	afraid	0fr3d	0fr4d		93	T			AT0 NP0	AJ0		0.29	0.058		
+145	a boot	about	0but	0b2t	idiom it's about time	33	T			AT0 NN1	AV0	E+	0.29	0.0725		
+146	an oaf	a loaf	0n5f	0l5f	proverb half a loaf is better than none	163	B			AT0 NN1	AT0 NN1	S+	0.23	0.0575		
+147	avaunt	I want	0vOnt	1want		19	T		French	ITJ	PNP VVB		0.53	0.106		
+148	Begorra	Gomorrah	b0gOr0	g0mOr0	coll. Sodom and Gomorrah	27	T	#NAME?		ITJ	NP0	B	1.1	0.18333334		
+149	wow	how	w2	h2	quote how do I love thee	256	ne			ITJ	AVQ	Q+	0.38	0.19		
+150	pickle	tickle	pIk0l	tIk0l	idiom tickle one's fancy	175	B			VVI	VVI	I+	0.18	0.036		
+151	ream	dream	.rim	drim	title to sleep, perchance to dream	192	B			VVI	VVI	Q+	0.09	0.0225		
+152	yank	thank	j&Nk	T&Nk	idiom have only oneself to thank	259	B			VVI	VVI	I+	1	0.25		
+153	yell	hell	jEl	hEl	idiom go to hell	259	B			VVI	NN1	E+	0.44	0.14666666		
+154	zinc	think	zINk	TINk	idiom stop to think	262	B			VVI	VVI	I+	0.66	0.165		
+155	aberration	adoration	&b0r4S0n	&d0r4S0n	coll. mutual adoration	6	B			NN1	NN1	C	0.21	0.02625		
+156	acre	a cur	4k0r	0k9r	_def.	7	ne			NN1	AT0 NN1		0.57	0.1425	e	
+157	acrimony	matrimony	.&krIm5nI	m&trIm5nI	_def.	7	ne			NN1	NN1		0.33	0.036666665		
+158	acrimony	alimony	&krIm5nI	&.lIm5nI	_def.	7	ne			NN1	NN1		0.23	0.02875		
+159	adder	had 'er	.&d0r	h&d0r	idiom I had her	7	T	see boa		NN1	VHD PNP	I+	0.07	0.014		
+160	ale	hell	.4l	hEl	idiom what the hell	10	T	see ale-all, see rum		NN1	NN1	I+	0.33	0.11		
+161	alternative	altar native	Olt9rn0tIv	Olt0rn4tIv		11	ne			NN1	NN0 NN1		0.57	0.057	l	
+162	amnesty	I'm nasty	&mn0stI	1mn&stI		12	ne			NN1	PNP VBB AJ0		0.46	0.065714285	e	
+163	antipasto	anti-pasta	&n?Ipast5	&n?Ipast0	_def.	14	ne		Italian	NN1	NN1		0.23	0.025555555		
+164	apostle	a parcel	0pa.s0l	0pars0l	_def.	14	ne			NN1	AT0 NN1		0.04	0.0057142857		
+165	argon	Oregon	ar.g0n	Or0g0n	_def.	15	ne			NN1	NP0		0.31	0.051666666		
+166	arson	horsin'	.ars0n	hOrs0n	idiom stop horsing around	16	T			NN1	VVG	E+	0.31	0.051666666		
+167	aspen	askin'	&sp0n	&skIn		17	T	see poplar, alder		NN1	VVG		0.24	0.048		
+168	ass	grass	..&s	gr&s	title the green, green grass of home	17	B			NN1	NN1	Q+	0.42	0.105		
+169	ax	X	&ks	Eks	_def.	20	ne			NN1	ZZ0		0.19	0.06333333		
+170	badger	bad you	b&J0r	b&J0.		22	T			NN1	AV0 PNP		0.03	0.006		
+171	badinage	bad in age	b&dInaZ	b&dIn4J		22	T			NN1	AV0 PRP NN1		0.6	0.08571429		
+172	bagel	bay gull	b4g0l	b4g^l	_def.	22	ne			NN1	NN0 NN1		0.27	0.054		
+173	banana	been any	b0n&n0	bInEnI	idiom been any messages for me	23	T			NN1	VBN AT0	I+	0.19	0.031666666	l	
+174	bard	bird	bard	b9rd	proverb birds of a feather ...	24	B			NN1	NN1	S+	0.29	0.0725		
+175	bargain	bar gain	barg0n	barg4n	_def.	24	ne			NN1	NN0 NN1		0.28	0.046666667		
+176	beck	back	bEk	b&k		26	B	what?		NN1	NN1		0.2	0.06666667		
+177	beguine	begin	bIgin	bIgIn	idiom begin at the beginning	28	T	beguine=dance		NN1	VVI	S+	0.1	0.02		
+178	beret	bray	b0r4	b.r4	_def.	28	ne			NN1	NN1		0.04	0.01		1
+179	berry	bury	bErI	b9rI	title bury me on the lone prairie	28	T			NN1	VVB	Q+	0.29	0.0725		
+180	billet	Billy	bIlIt	bIlI.	coll. hill billy	30	ne	proper name		NN1	NP0	R	0.07	0.014		
+181	bloomer	blew my	blum0r	blum1.		31	T			NN1	VVD DPS		0.23	0.038333334		
+182	bone	born	b5.n	bOrn		32	ne		southern US dialect	NN1	VVB		0.3	0.075		
+183	bordello	bored hello	bOrd.El5	bOrdhEl5	_def.	33	ne			NN1	AJ0 NN1		0.07	0.00875	l	
+184	burro	borrow	b9r5	bar5		38	T			NN1	VVI		0.29	0.0725		
+185	Carnage	Carthage	karnIJ	karTIJ		0	ne	where?		NN1	NP0		1	0.16666667		
+186	carrot	car ought	k&r0t	karOt	proverb put the cart before the horse	43	T			NN1	NN1 VMB	S+	0.48	0.096		
+187	caucus	carcass	kO.k0s	kark0s	_def.	44	ne			NN1	NN1		0.29	0.048333332		
+188	centaur	cent whore	sEnt.Or	sEnthOr	_def.	45	ne			NN1	NN0 NN1		0.07	0.01		
+189	chair	cheer	C7r	Cir	idiom three hearty cheers	45	B			NN1	NN1	I+	0.29	0.096666664		
+190	chairman	charming	C7rm0n	CarmIN	idiom it's been charming	45	T			NN1	AJ0	I+	0.43	0.071666665		
+191	chandelier	Chanticleer	S&nd0.l6r	C&n?0kl6r	_def.	46	ne			NN1	NP0		0.45	0.05		
+192	chivalry	shivery	SIv0lrI	SIv0.rI	_def.	48	ne			NN1	AJ0		0.06	0.008571428		
+193	chops	cops	Caps	kaps		48	T			NN2	NN2		0.38	0.095		
+194	chowder	showed her	C2d0r	S5d0r		48	T			NN1	VVD PNP		0.48	0.096		
+195	chub	shove	C^b	S^v	idiom show someone around	48	T			NN1	VVI	I+	0.37	0.123333335		
+196	commonplace	come and place	kam0npl4s	k^m0npl4s		52	T			NN1	VVB CJC VVB		0.21	0.023333333		
+197	conversation	condensation	kanv0rs4S0n	kand0ns4S0n	_def.	54	ne			NN1	NN1		0.75	0.06818182		
+198	cow	how	k2	h2	quote how, shall I love thee	57	ne			NN1	AVQ	Q+	0.38	0.19		
+199	crash	cash	kr&S	k.&S		57	B	what?		NN1	NN1		0.03	0.0075		
+200	crass	class	kr&s	kl&s	coll. middle-class	57	B	only morpheme		NN1	AJ0	R	0.13	0.0325		
+201	creep	keep	krip	k.ip	coll. upkeep	58	B	only morpheme		NN1	NN1	R	0.03	0.0075		
+202	criminal	cream in all	krIm0n0l	krimInOl		58	T			NN1	NN1 PRP AT0		0.4	0.05		
+203	cudgel	cordial	k^.J0l	kOrJ0l		60	T			NN1	AJ0		0.32	0.053333335		
+204	cymbal	simple	sImb0l	sImp0l	idiom not as simple as it looks	61	T			NN1	AJ0	E+	0.14	0.023333333		
+205	Dallas	dollars	d&l0.s	dal0rz		229	ne	see Texas		NP0	NN2		0.34	0.05666667		
+206	dance	dunce	d&ns	d^ns	_def.	63	ne	what?		NN1	NN1		0.27	0.0675		
+207	deacon	beacon	dik0n	bik0n	_def.	63	ne			NN1	NN1		0.38	0.076		
+208	deadlock	wedlock	dEdlak	wEdlak	title holy wedlock	63	ne	WS has deadlock-bedlock		NN1	NN1	Q+	1	0.16666667		
+209	deceiving	receiving	dIsivIN	rIsivIN		63	ne			NN1	NN1		0.29	0.04142857		
+210	dishes	this is	dISIz	DIsIz		68	B	knock-knock		NN2	DT0 VBB		0.14	0.028		
+211	divan	divine	dIv&n	dIv1n	idiom look divine	68	T			NN1	AJ0	I+	0.22	0.044	e	
+212	doormat	dormant	dOrm&.t	dOrm0nt	coll. lie dormant	69	T			NN1	AJ0	I	0.33	0.047142856		
+213	druid	do it	druId	d.uIt		70	T			NN1	VDB PNP		0.12	0.024		
+214	duenna thing	do anything	duEn0TIN	duEnITIN		71	T			NN1	VDI PNP		0	0		
+215	dusk	dust	d^sk	d^st	_def.	72	ne			NN1	NN1		0.14	0.035		
+216	dybbuk	the book	dIb0k	D0bUk	coll. book-of-the-month club	72	ne			NN1	AT0 NN1	C	0.34	0.068	e	
+217	eagle	equal	ig.0l	ikw0l	idiom all men are created equal	73	T			NN1	AJ0	Q+	0.23	0.046		
+218	ear	hear	.6r	h6r	coll. corn ear	73	T			NN1	VVB	R	0.07	0.023333333		
+219	easel	weasel	.iz0l	wiz0l	coll. weasel out of a problem	74	T			NN1	VVB	I	0.13	0.026		
+220	Easter	used to	.ist0r	just0.		74	T	WS had Easter-ceased to		NN1	VVD TO0		0.42	0.07		
+221	echelon	it's a long	E.S0lan	Its0laN	title it's a long way to Tipperary	74	ne			NN1	PNP VBZ AT0 AJ0	Q+	0.51	0.07285714		
+222	elastic	Alaska	0l&stIk	0l&sk0.	coll. Baked Alaska	75	B			NN1	NP0	C	0.27	0.03857143		
+223	eon	a yawn	i.0n	0jOn	_def.	78	ne			NN1	AT0 NN1		0.58	0.145	e	
+224	epidemic	epidermic	Ep0dE.mIk	Ep0d9rmIk	_def.	78	ne			NN1	NN1		0.33	0.036666665		
+225	epitaph	epigram	Ep0t.&f	Ep0gr&m	_def.	78	ne			NN1	NN1		1.14	0.16285715		
+226	erg	urge	9rg	9rJ	coll. urge s.o. on (phrasal verb)	78	T			NN1	VVB	P	0.66	0.22		
+227	eucalyptus	you clipped us	juk0lIpt0s	juk.lIpt0s	idiom you clipped us	80	ne			NN1	PNP VVD PNP	I+	0.04	0.004		1
+228	F	if	Ef	If		83	T			NN1	CJS		0.21	0.105		
+229	faker	acre	f4k0r	.4k0r	coll. God's acre	83	B			NN1	NN1	R	0.27	0.054		
+230	famine	farming	f&.mIn	farmIN		84	B		New England dialect	NN1	NN1		0.41	0.068333335		
+231	feline	feelin'	fil1n	filIn	idiom feeling one's oats	85	T			NN1	VVG	E+	0.28	0.056		
+232	finch	finished	fIn.C	fInIS	_def.	87	ne			NN1	AJ0		0.3	0.06		-1
+233	fink	think	fINk	TINk	quote I think, therefore I am	87	T			NN1	VB	Q+	0.24	0.06		
+234	fjord	Ford	fjOrd	f.Ord	_def.	88	ne			NN1	NP0		0.1	0.02		
+235	flesh	fresh	flES	frES	quote the pause that refreshes	89	B	just morpheme		NN1	NN1	Q+	0.11	0.0275		
+236	flotation	flirtation	fl5.t4S0n	fl9rt4S0n	_def.	89	ne			NN1	NN1		0.34	0.037777778		
+237	folder	for older	f..5ld0r	f0r5ld0r	idiom show respect for older people	91	T	no 2nd script		NN1	PRP AJC	E+	0.11	0.01375		
+238	font	found	fant	f2nd	_def.	91	T	see agate		NN1	AJ0		0.38	0.095		
+239	frenzy	friends he	frEn.zI	frEndzi		93	T			NN1	NN1 PNP		0.24	0.034285713		
+240	gaucho	Graucho	g.2C5	gr2C5	name Gaucho Marx	96	B			NN1	NP0	R	0.04	0.008		
+241	gentile	gentle	JEnt1l	JEnt0l	quote do not go gentle into that good night (Dylan Thomas)	96	B			NN1	NN1	Q+	0.29	0.048333332		
+242	gob	got	gab	gat	idiom if you gotta go ...	99	T			NN1	VMB	S+	0.44	0.14666666		
+243	guitar	got to	gItar	ga?0.	idiom if you gotta go ...	103	T			NN1	VVN	S+	0.72	0.144		
+244	gulch	gulls	g^lC	g^lz	_def.	103	ne	no 2nd script		NN1	NN2		1	0.25		
+245	gulp	gulf	g^lp	g^lf	coll. gulf of Mexico	103	B			NN1	NN1	I	0.21	0.0525		
+246	hail	hell	h4l	hEl		105	ne		Southern	NN1	NN1		0.26	0.086666666		
+247	halo	hello	h4l5	hEl5	idiom hello there	106	T	greeting hello		NN1	ITJ	I+	0.26	0.065		
+248	ham	am	h&m	.&m	idiom I am what I am	106	T			NN1	VBB	Q+	0.08	0.026666667		
+249	hamlet	omelette	h&ml0t	.aml0t	_def.	106	ne			NN1	NN1		0.31	0.051666666		
+250	harmony	hominy	harm0nI	ha.m0nI	_def.	107	ne			NN1	NN1		0.03	0.004285714		
+251	hartebeest	heartbeat	har?0bist	hart.bi.t	idiom only a heartbeat away	108	B			NN1	NN1	E+	0.33	0.036666665		
+252	helm	hem	hElm	hE.m	coll. hem and haw	110	T			NN1	VVI	B	0.06	0.015		
+253	hornet	cornet	hOrn0t	kOrn0t		245	B	see vile		NN1	NN1		0.34	0.05666667		
+254	horse	house	hOrs	h2.s	proverb a house divided against itself	113	ne			NN1	NN1	E+	0.33	0.0825		
+255	hyena	high in a	h1in0	h1In0		115	T			NN1	AVO PRP AT0		0.1	0.02	l	
+256	icon	acorn	1ka.n	4kOrn	_def.	117	ne			NN1	NN1		0.55	0.11		
+257	icon	hike on	.1kan	h1kan		117	T			NN1	VVB AVP		0.07	0.014		
+258	iguana	I ('m) gonna	Igwan0	1mgan0		117	T	very distant, but syntactic requirements make the S V very recoverable		NN1	PNP VBB VMI TO0		1.94	0.32333332		
+259	incest	insist	InsEst	InsIst	idiom well, if you insist	118	T			NN1	VVB	I+	0.21	0.035	e	
+260	ingot	in God	Ingat	Ingad	idiom in god we trust	119	T			NN1	PRP NN1	Q+	0.11	0.022	e	
+261	jacket	Jack ate	J&k0t	J&kEt		123	T			NN1	NP0 VVD		0.23	0.046	e	
+262	jeep	cheep	Jip	Cip		124	T			NN1	AJ0		0.18	0.06		
+263	jest	just	JEst	J^st		124	T			NN1	AV0		0.29	0.0725		
+264	jigsaw	rickshaw	JIgsO	rIkSO	_def.	125	ne			NN1	NN1		0.65	0.13		
+265	jog	jug	Jag	J^g	_def.	125	B	2nd script?		NN1	NN1		0.21	0.07		
+266	juice	Jews	Jus	Juz	_def.	126	ne			NN1	NP0		0.07	0.023333333		
+267	kalpa	calliper	k&l.p0.	k&lIp0r		128	ne	what?		NN1	NN1		0.15	0.021428572		-1
+268	kangaroo	can grew	k&Ng0ru	k&Ng.ru		128	T			NN1	NN1 VVD		0.04	0.0057142857		1
+269	kibbitz	kibbutz	kIbIts	kIbuts		129	ne		Hebrew/Yiddish	NN1	NN1		0.29	0.048333332		
+270	kindle	candle	kInd0l	k&nd0l	_def.	129	ne		Yiddish	NN1	NN1		0.28	0.046666667		
+271	kirsch	curse	k9rS	k9rs	_def.	130	ne			NN1	NN1		0.09	0.0225		
+272	kitchen	catching	kIC0n	k&C0n	phrasal verb catch up	130	T			NN1	VVG	P+	0.28	0.056		
+273	Latin	lettin'	l&?In	lE?In		134	T			NN1	VVG		0.19	0.038		
+274	lava	lover	lav0.	lav0r	title lover come back to me	134	ne			NN1	PNP VHB PNP	Q+	0.04	0.008		
+275	ledger	let your	lEJ0r	lEC0r	idiom let yourself go	136	T			NN1	VVB DPS	I+	0.18	0.036		
+276	leprechaun	leprosy	lEpr0kOn	lEpr0sI.	_def.	136	ne			NN1	NN1		0.67	0.08375		
+277	lessee	let's see	lE.si	lEtsi		136	T			NN1	VMB PNP VVI		0.07	0.014		
+278	ligature	look what you're	lIg.0C0r	lUkw0C0r		138	T			NN1	VVB AVQ PNP VBB		0.52	0.065		
+279	litmus	lit mouse	lItm0s	lItm2s	_def.	140	ne			NN1	AJ0 NN1		0.29	0.048333332		
+280	lizard	wizard	lIz0rd	wIz0rd	title the electrical wizard	140	B			NN1	NN1	Q+	0.44	0.07333333		
+281	locust	low curse	l5k0.st	l5k9rs.	_def.	141	ne			NN1	AJ0 NN1		0.4	0.057142857	e	
+282	lorry	sorry	larI	sarI	title who's sorry now	142	T			NN1	AJ0	Q+	0.66	0.165		
+283	magnet	maggot	m&gn0t	m&g.0t	_def.	145	B	what a crappy pun, no 2nd script		NN1	NN1		0.1	0.016666668		
+284	malice	Alice	m&lIs	.&lIs	title Alice in Wondeland	145	B			NN1	NP0	Q+	0.14	0.028		
+285	mandolin	Mandarin	m&nd0lIn	m&nd0rIn		146	ne		Chinese?	NN1	NN1		0.11	0.01375		
+286	marijuana	marry one	m&rIwan0	m&rIw^n.	_def.	146	T			NN1	VVB PN1		0.25	0.03125	l	1
+287	marmot	mum ought	marm0t	m^.mOt	_def.	147	T			NN1	NN1 VMD		0.49	0.08166666		
+288	mastodon	mustard on	m&st0.dan	m^st0rdan		147	T			NN1	NN1 PRP		0.31	0.034444444		
+289	May	day	m4	d4	idiom rare as a day in June	147	B			NN1	NN1	E+	0.66	0.33		
+290	mizzen	missin'	mIz0n	mIs0n		151	T			NN1	VVG		0.07	0.014		
+291	momentum	memento	m5mEn?0m	m0mEn?5.	_def.	151	ne			NN1	NN1		0.62	0.0775		
+292	monastery	monstery	man0st7rI	man.st0rI	_def.	152	ne			NN1	NN1		0.33	0.036666665		1
+293	mongoose	man-goose	maNgus	m&ngus		152	B			NN1	NN1		0.37	0.061666667		
+294	moose	must	mus	m^s		152	T			NN1	VMB		0.28	0.093333334		
+295	mortarfied	mortified	mOrtarf1d	mOr?I.f1d		153	T			NN1	AJ0		0.48	0.053333335		
+296	moth	must	maT	m^s		153	T	please!		NN1	VM0		0.32	0.10666667		
+297	mulch	much	m^lC	m^.C	idiom too much of a ...	154	T			NN1	AV0	E+	0.06	0.015		
+298	muzzle	ma will	m^z0l	m^wIl		155	T			NN1	NN1 VMB		1	0.2	e	
+299	newt	knew it	nu.t	nuIt	idiom noone knew	159	T			NN1	VVD PNP	I+	0.11	0.0275		-1
+300	ninny	nanny	nInI	n&nI	_def.	159	ne			NN1	NN1		0.28	0.07		
+301	ocelot	owes a lot	as0l0t	5z0lat		164	T			NN1	VVZ AT0 AJ0		0.58	0.096666664		
+302	oil	I'll	3l	1l		165	T			NN1	PNP AM0		0.28	0.14		
+303	omelet	amulet	am..l0t	&mjul0t	_def.	165	ne			NN1	NN1		1.27	0.18142857		
+304	onomatopoeia	I don't want to pee	an0m&?0pi0	ad0wan0pi.	_def.	165	T			NN1	PNP VDB XX0 VVI TO0		2.65	0.265		
+305	opal	hope I'll	.5p0l	h5p1l		165	T			NN1	VVB PNP VMB		0.27	0.054		
+306	orgy	Porgy	.OrJI	pOrgI	title Progy and Bess	166	ne			NN1	NP0	Q+	0.68	0.136		
+307	ovary	oh, very	5v0rI	5vErI		167	T			NN1	ITJ AV0		0.23	0.046	e	
+308	paranoia	pair annoy you	p&r0n30	p&r0n30		169	T	homophonic		NN1	NN1 VVB PNP		0	0		
+309	pasturage	past your age	p&sC0rIJ	p&sC0r4J	coll. past your age	171	T			NN1	PRP DPS NN1	I	0.28	0.035		
+310	pistol	pissed till	pIst0l	pIstIl		176	T			NN1	VVD PRP		0	0	e	
+311	pith	piss	pIT	pIs		177	ne		lisp	NN1	VVI		0.11	0.036666665		
+312	pliers	players	pl10rz	pl40rz	_def.	178	ne			NN2	NN1		0.27	0.045		
+313	possum	for some	pa.s0m	f0rs^m	idiom play possum	180	T			NN1	PRP AT0	I+	0.76	0.12666667	e	
+314	psalmody	somebody	sam.0dI	s^mb0dI		184	T			NN1	NN1		0.42	0.06		
+315	punishment	pun is meant	p^nISm0nt	p^nIzmEnt		185	T			NN1	NN1 VBB AV0		0.54	0.06		
+316	pyorrhea	Piraeus	p10ri0.	p1.ri0s	_def.	186	ne			NN1	NP0		0.14	0.02		
+317	qualm	calm	kwam	k.am	idiom the calm before the storm	188	B			NN1	NN1	E+	0.11	0.0275		
+318	quondam	one damn	kwand0m	.w^nd&m	idiom one damn thing after another	189	T			NN1	AT0 AVO	I+	0.55	0.07857143		
+319	are rapier	are happier	0r.4pi0r	0rh&pi0r		192	T			NN1	VBB AV0		0.34	0.0425		
+320	reaper	ripper	rip0r	rIp0r	title Jack the Ripper	192	B			NN1	NN1	Q+	0.1	0.02		
+321	rectangle	wrecked ankle	rEkt&Ng0l	rEkt&Nk0l	_def.	193	ne			NN1	AJ0 NN1		0.1	0.011111111	e	
+322	reefers	refers	rif0rz	rIf9rz	_def.	194	T			NN2	VBZ		0.39	0.065	e	
+323	reeling	reading	rilIN	ridIN	coll. reading and writing	257	B	see writhe		NN1	NN1	B	0.34	0.068		
+324	refugee	referee	rEfjUJi	rEf.0ri	_def.	194	ne			NN1	NN1		0.77	0.11		
+325	ribaldry	rivalry	rIb0ldrI	rIv0l.rI	coll. sibling rivalry	197	B			NN1	NN1	R	0.29	0.03625		
+326	ricochet	rickshaw	rIk0S4	rIk.SO	_def.	197	ne			NN1	NN1		0.33	0.055		1
+327	rust	rushed	r^st	r^St		119	T	see indigo		NN1	VVN		0.17	0.0425		
+328	safari	so far	s0farI	s5far.	idiom so far so good	201	T			NN1	AVO AVO	E+	0.35	0.058333334		
+329	salmon	summon	sam0n	s^m0n	idiom summon one's strength	202	T			NN1	VVI	I+	0.21	0.042		
+330	scrawl	call	skrOl	.k.Ol	title the call of the wild (London)	204	B			NN1	NN1	Q+	0.11	0.022		
+331	script	stripped	skrIpt	strIpt		205	T			NN1	VVN		0.14	0.023333333		
+332	sediment	said he meant	sEd0m0nt	sEdimEnt	_def.	205	ne			NN1	VVD PNP VVD		0.49	0.06125		
+333	semaphore	same before	sEm.0fOr	s4mb0fOr	_def.	206	ne			NN1	PN1 AV0		0.49	0.06125		
+334	seminary	cemetary	sEm0n7rI	sEm0t7rI	_def.	206	ne			NN1	NN1		0.34	0.0425		
+335	senator	centaur	sEn0t0r	sEn.tOr	_def.	206	ne			NN1	NN1		0.29	0.04142857		1
+336	shasta	she has to	S.&st0	Si&st0		208	T			NN1	PNP VMZ TO0		0.29	0.048333332		-1
+337	shiver	she ever	SI.v0r	SiEv0r		209	T			NN1	PNP AV0		1.15	0.19166666	e	
+338	shofar	so far	S5f0r	s5far		209	T			NN1	AV0		0.35	0.07		
+339	short	shore	SOrt	SOr.	coll. ship-to-shore radio	210	B	only morpheme		NN1	NN1	R	0.07	0.0175		
+340	short	shot	SOrt	Sa.t	quote and fired the shot heard round the world	210	B			NN1	NN1	Q+	0.28	0.07		
+341	shotgun	shogun	Satg^n	S5.g^n		210	ne			NN1	NN1		0.32	0.053333335		
+342	simile	smile	sIm0li	s.m1l.	_def.	211	ne			NN1	NN1		0.43	0.071666665		2
+343	smelt	smelled	smElt	smEld		213	T			NN1	VVD		0.11	0.022		
+344	soda	so the	s5d0	s5D0		214	T			NN1	CJC AT0		0.05	0.0125		
+345	Sodom	saw them	sad0m	sOD0m		214	T			NN1	VVD PNP		0.29	0.058		
+346	soiree	sorry	swar4	s.arI	proverb love is never having to say you're sorry	215	T			NN1	AJ0	S+	0.39	0.078	l	
+347	sophomore	sell for more	sa.f0mOr	sElf0mOr	idiom sell for more	215	T			NN1	VVB PNP AJC	I+	0.35	0.04375		
+348	speculator	escalator	spE.kj0l4?0r	..Esk.0l4?0r	_def.	216	ne	this could be Red plus Lin violation		NN1	NN1		0.44	0.036666665		
+349	stern	stone	st9rn	st5.n	coll. Rolling Stones	219	ne			NN1	NN1	R	0.32	0.064		
+350	strumpet	strum pet	str^mpIt	str^mpIt	_def.	221	ne	homophonic		NN1	NN0 NN1		0	0		
+351	summons	someone's	s^m.0nz	s^mw^nz		222	T			NN2	PNP POS		0.4	0.057142857		
+352	T.b.	to be	tibi	t0bi	quote to be or not to be	54	B			NN1	TO0 VBB	Q+	0.24	0.06		
+353	tantrum	tandem	t&ntr0m	t&nd.0m	_def.	226	B			NN1	NN1		0.14	0.02		
+354	termite	their might	t9rm1t	D7rm1t	coll. with all one's might	229	ne			NN1	DPS NN1	I	0.47	0.07833333	e	
+355	throat	throw it	Tr5.t	Tr5It	idiom throw it out	230	T			NN1	VVB PNP	I+	0.11	0.022		-1
+356	ticket	thicket	tIk0t	TIk0t		231	ne		lisp?	NN1	NN1		0.18	0.036		
+357	toboggan	to bargain	t0ba.g0n	t0barg0n	_def.	232	ne			NN1	TO0 VVI		0.04	0.005		
+358	tog	tug	tag	t^g	idiom tug of war	233	ne			NN1	NN1	I+	0.21	0.07		
+359	togs	dogs	tagz	dagz	coll. mad dogs	232	ne			NN2	NN2	C	0.11	0.0275		
+360	bit tonsure	bit unsure	bItanS0r	bIt^nS8r	idiom a bit unsure of oneself	233	T			NN1	AV0 AJ0	E+	0.51	0.06375		
+361	trial	try all	tr10l	tr1Ol		235	T			NN1	VVI AV0		0.25	0.05	e	
+362	trout	out	tr2t	..2t		236	T			NN1	AVP		0.1	0.025		
+363	urchin	urgin'	9rCIn	9rJIn	coll. urge someone on	240	T			NN1	VVG	P	0.2	0.04		
+364	urination	you're a nation	jUr0n4S0n	j8r0n4S0n	idiom you're a nation of ...	240	T			NN1	PNP VBB AT0 NN1	Q+	0.29	0.032222223		
+365	V	we	vi	wi	idiom where do we go from here	242	T			NN1	NN1	I+	0.08	0.04		
+366	van	when	v&n	wEn		242	T	nothing else would be ok syntactically		NN1	AVQ		0.27	0.09		
+367	vanilla	Manilla	v0nIl0	m0nIl0	_def.	242	ne			NN1	NP0		1	0.16666667		
+368	vast	last	v&st	l&st	title the last of the Mohican	243	T			NN1	NN1	Q+	0.44	0.11		
+369	veal	feel	vil	fil	idiom only as young as you feel	243	T			NN1	VVB	E+	0.17	0.05666667		
+370	vermilion	million	v0rmIlj0n	...mIlj0n		118	T	see indigo		NN1	NN1		0.41	0.045555554		1
+371	version	virgin	v9rZ0n	v9rJ0n		244	ne			NN1	NN1		0.31	0.051666666		
+372	viscount	why count	v1k2nt	w1k2nt		246	T			NN1	AVQ VVB		0.08	0.013333334		
+373	vodka	what ca(n)	vadk0	watk0		199	T	see rum		NN1	AVQ VMB		0.17	0.034		
+374	wafer	wait for	w4.f0r	w4tf0r	idom swallow one and wait for results	248	T			NN1	VVB AVP	I	0.07	0.011666667		
+375	whittler	Hitler	wItl0r	hItl0r	coll. Heil Hitler	252	ne			NN1	NP0	F	0.38	0.06333333		
+376	wiener	when are	win0r	wEn0r		253	T			NN1	AVQ VBB		0.28	0.056		
+377	wimble	nimble	wImb0l	nImb0l	quote Jack be nimble, Jack be quick ...	253	T			NN1	AJ0	Q+	0.52	0.086666666		
+378	wind	when d(o)	wInd	wEnd	idiom run out of wind	254	T			NN1	AVQ VDB	E+	0.2	0.05		
+379	wretched	Richard	rECI.d	rIC0rd	coll. Richard the Lionhearted	256	B			NN1	NP0	I	0.26	0.043333333		
+380	writhing	writing	r1DIN	r1?IN	coll. reading and writing	257	B			NN1	NN1	B	1	0.2		
+381	yacht	he ought	j.at	hiOt		258	T			NN1	PNP VMB		0.97	0.2425		-1
+382	yarn	you're on	jar.n	j8ran	idiom you're on the wrong track	259	T			NN1	PNP VBB AVP	E+	0.95	0.19		-1
+383	yelp	help	jElp	hElp	coll. helpless	259	B	just morpheme		NN1	NN1	R	0.44	0.11		
+384	yokel	yodel	j5k0l	j5d0l	_def.	260	ne			NN1	VVI		0.34	0.068		
+385	zend	send	zEnd	sEnd		261	T	what?		VVN	VVN		0.07	0.0175		
+386	zinc	sink	zINk	sINk	_def.	262	ne			NN1	NN1		0.07	0.0175		
+387	zombie	some be	zambi	s^mbi		262	T			NN1	PNP VBB		0.28	0.056		
+388	zounds	sounds	z2ndz	s2ndz	_def.	262	ne	what?		NN2	NN2		0.07	0.014		
+389	poplar	popular	pOp..l0r	pOpj0l0r		17	T	see aspen		NN1	AJ0		0	0		-1
+390	alder	all the	Old0r	0ld0.	coll. all the time	17	T	see aspen		NN1	AV0 AT0	I	0.3	0.06		
+391	nutmeg	not make	natmEg	nOtm4k		54	T	see consecrated		NN1	XX0 VVB		0	0	e	
+392	camphor	came for	k&mf0r	k4mfOr		54	T	see consecrated		NN1	VVD AVP		0	0		
+393	sulphur	sell for	salf0r	sElfOr		54	T	see consecrated		NN1	VVB AVP		0	0		
+394	cinnamon	seen a man	sIn0m0n	sin0m&n		54	T	see consecrated		NN1	VVN AT0 NN1		0	0	e	
+395	ammonia	I'm only a	&m5n.6	1m5nl6		54	T	see consecrated		NN1	PNP VBB AV0 AT0		0	0		
+396	hair	heir	h&r	.ir	coll. heir apparent	106	ne			NN1	NN1	R	0	0		
+397	pun	pen	pan	pEn	idiom put pen to paper	124	B	see jest		NN1	NN1	E+	0	0		
+398	beer	be or	bi.r	biOr		199	T	see rum		NN1	AV0 CJC		0	0		-1
+399	water	what do	wOd0r	wOt0.		199	T	see rum		NN1	AVQ VDB		0	0		
+400	wine	why	w1n	w1.		199	T	see rum		NN1	AVQ		0	0		1
+401	martini	are tiny	martini	.art1nI		199	T	see rum		NN1	VBB AV0		0	0		
+402	chianti	can't you	kj&nt.I	k.&ntjU		199	T	see rum		NN1	VM0 XX0 PNP		0	0	l	
+403	sop horrific	soporific	saph0rIfIk	sap.0rIfIk		215	B			NN1 AV0	NN1		0	0		
+404	tryer	cryer	tr10r	kr10r	coll. town cryer	236	B			NN1	NN1	R	0.16	0.032		
+405	abbess	abscess	&b.0s	&bs0s		5	B			NN1	NN1		0.1	0.02		
+406	admonition	ammunition	&dm.0nIS0n	&.mjunIS0n	title praise the lord and pass the ammunition	8	B			NN1	NN1	Q+	0.48	0.048		
+407	allusion	illusion	0luZ0n	IluZ0n	coll. optical illusion	11	B			NN1	NN1	C	0	0		
+408	ammonia	(th)em on yet	0m5nj0.	0manjEt		12	B	should it be them on, ya?		NN1	NN1 PNP AV0		0.57	0.08142857		
+409	anapest	and a pest	&n0pEst	0n0pEst	idiom become a pest	13	B			NN1	CJC AT0 NN1	I+	0.23	0.032857142	e	
+410	anti-skeptic	antiseptic	&n?0skEptIk	&n?0s.EptIk	coll. antispetic	212	ne	only morpheme		NN1	NN1	R	0.1	0.009090909		
+411	arrival	survival	.0r.1v0l	s0rv1v0l	idiom survival of the fittest	16	B	much phon distance, but salvaged through idiom		NN1	NN1	Q+	0.27	0.03375		
+412	asp	ass	&sp	&s.	idiom make an ass of oneself	17	B			NN1	NN1	E+	0.16	0.053333335		
+413	baboons	bassoons	b0bunz	b0sunz		245	B	see vile		NN2	NN2		0.66	0.11		
+414	barbiturate	bar bitch you ate	barbIC0rIt	barbIC0.Et		23	B	oh, what a setup		NN1	NN0 NN1 PNP		0.23	0.023		
+415	bauble	bubble	bOb0l	b^b0l		25	B	what?		NN1	NN1		0.28	0.056		
+416	bay	day	b4	d4	proverb every dog has his day	25	B			NN1	NN1	S+	0.21	0.105		
+417	beach	peach	biC	piC		25	B	or 'bitch' [bIC], 3-way pun		NN1	NN1		0.14	0.046666667		
+418	beans	beings	binz	biNz	coll. human beings	26	B			NN2	NN2	C	0.14	0.035		
+419	beard	bard	b6rd	bard	coll. Bard of Avon	26	B			NN1	NN1	I	0.3	0.075		
+420	biggie	buggy	bIgI	b^gI	coll. dune buggie	29	B			NN1	NN1	R	0.27	0.0675		
+421	blond	blind	bland	bl1nd	coll. Venetian blind	31	B			NN1	NN1	C	0.23	0.046		
+422	braid	bread	br4d	brEd	idiom cast one's bread upon the water	34	B	what?		NN1	NN1	I+	0.26	0.065		
+423	braziers	brassiers	braZ0rz	br0z6rz		34	B			NN2	NN2		0.91	0.13		
+424	breath	breadth	brE.T	brEdT	idiom by a hair's breadth	34	B			NN1	NN1	I+	0.09	0.018		
+425	bream	dream	brim	drim	idiom dream the impossible dream	34	B	adnominatio		NN1	NN1	E+	0.21	0.0525		
+426	breaths	breasts	brE.Ts	brEsts		34	B			NN2	NN2		0.3	0.05		
+427	brogan	broken	br5g0n	br5k0n		36	B			NN1	AJ0		0.1	0.016666668		
+428	bruise	blues	bruz	bluz		36	B		Chinese	NN1	NN1		0.13	0.0325		
+429	bungle	bundle	b^Ng0l	b^nd0l	idiom bundle of joy	38	B			NN1	NN1	I+	0.63	0.105		
+430	butcher	bitch or	bUC0r	bIC0r		39	T			NN1	NN1 CJC		0.3	0.06		
+431	can	man	k&n	m&n	title a man for all seasons	41	B			NN1	NN1	Q+	0.66	0.22		
+432	carp	cart	karp	kart	idiom put the cart before the horse	43	B			NN1	NN1	E+	0.18	0.045		
+433	centimeter	centipede	sEn?Imi?0r	sEn?Ipid..		45	B			NN1	NN1		0.91	0.091		1
+434	chimps	chips	CImps	CI.ps	coll. fish and chips	87	B	see finch		NN2	NN2	B	0.14	0.028		
+435	chintzes	chances	CIntsIz	C&n.sIz	idiom take your chances	48	B			NN2	NN2	I+	0.35	0.05		
+436	clown	crown	kl2n	kr2n	quote Jack fell down and broke his crown ...	50	B			NN1	NN1	Q+	0.11	0.0275		
+437	coal	cold	k5l.	k5ld	coll. a bad cold	50	B			NN1	NN1	C	0.09	0.0225		
+438	colt	cold	k5lt	k5ld	idiom feed a cold and starve a fever	52	B			NN1	NN1	E+	0.11	0.0275		
+439	condiment	complement	kand.Im0nt	kamplIm0nt		54	B	see consecrated		NN1	NN1		1.22	0.122		
+440	congestion	question	k0nJEsC0n	k..wEsC0n	quote to be or not to be ...	54	B			NN1	NN1	Q+	0.8	0.08888889		1
+441	cope	hope	k5p	h5p	proverb where there's life, there's hope	55	B			NN1	NN1	S+	0.38	0.12666667		
+442	corsets	charges	kOrsIts	CarJ0z	coll. charges without foundation	56	B	Ws had corsets-causes		NN2	NN2	I	2.78	0.46333334		
+443	cortege	corsage	kOrtEZ	kOrsaZ		56	B			NN1	NN1		0.73	0.12166667		
+444	crab	grab	kr&b	gr&b		57	B			NN1	NN1		0.11	0.0275		
+445	critic	cricket	krI?Ik	krIkIt	title cricket on the hearth (Dickens)	58	B			NN1	NN1	Q+	0.8	0.13333334		
+446	cruisers	choosers	kruz0rz	C.uz0rz	idiom beggars can't be choosers	59	B			NN2	NN2	S+	0.55	0.07857143		
+447	crullers	crawlers	kr^l0rz	krOl0rz	idiom night crawlers	59	B			NN2	NN2	R	0.28	0.04		
+448	cub	cud	k^b	k^d	_def.	60	B			NN1	NN1		0.21	0.07		
+449	curries	courage	k9rIz	k9rIJ	idiom have the courage of your conviction	60	B			NN2	NN1	I+	1	0.2		
+450	curse	course	k9rs	kOrs	idiom let nature take its course	61	B			NN1	NN1	E+	0.29	0.0725		
+451	delight	the light	dIl1t	D0l1t	coll. lower the light	64	B			NN1	AT0 NN1	I	0.06	0.012		
+452	dependants	the pendants	dIpEnd0nts	D0pEnd0nts		65	B			NN2	AT0 NN2		0.06	0.006		
+453	din	den	dIn	dEn	idiom den of iniquity	67	B			NN1	NN1	E+	0.2	0.06666667		
+454	dinosaur	diner sore	d1n0.sOr	dIn0rsOr		67	B			NN1	NN1 AJ0		0.32	0.04		
+455	doe	do	d5	du		68	B	what?		NN1	NN1		0.27	0.135		
+456	dog	log	dag	lag	idiom throw a log on the fire	68	B	fire-log eskimo-sleddog		NN1	NN1	E+	0.44	0.14666666		
+457	dowel	towel	d20l	t20l	idiom throw in the towel	69	B			NN1	NN1	E+	0.09	0.0225		
+458	dram	damn	dr&m	d.&m	coll. give a damn	69	B			NN1	NN1	T	0.03	0.0075		
+459	drool	drawl	drul	drOl	coll. Southern drawl	70	B			NN1	NN1	C	0.29	0.0725		
+460	dung	done	d^N	d^n	title when the works all done this fall	72	B			NN1	VVN	Q+	0.19	0.06333333		
+461	earl	oil	9rl	3.l	idiom pour oil on troubled water	73	B			NN1	NN1	E+	0.33	0.11		
+462	ears	years	.6rz	j6rz	idiom give the best years of one's life	73	B			NN2	NN2	I+	0.09	0.0225		
+463	eaves	heaves	.ivz	hivz	coll. have the heaves	74	B			NN2	NN2	T	0.07	0.0175		
+464	election	erection	IlEkS0n	IrEkS0n		75	B		Chinese	NN1	NN1		0.11	0.015714286		
+465	elephants	eloquence	El0f.0ns	El0kw0ns	title well-timed silence... (M. F. Tupper)	76	B			NN2	NN1	Q+	0.57	0.07125		
+466	ember	amber	Emb0r	&mb0r	title Forever Amber (movie)	76	B			NN1	NN1	Q+	0.2	0.04		
+467	epistle	a pistol	ipIs.0l	0pIst0l		78	B			NN1	AT0 NN1		0.31	0.044285715		
+468	etch	itch	EC	IC	idiom scratch the itch	79	B			NN1	NN1	E+	0.21	0.105		
+469	ether	either	iT0r	iD0r		80	B	either = pronoun		NN1	NN1		0.23	0.0575		
+470	eye-deer	idea	1d6r	1d6.	coll. interesting idea	81	B			NN1	NN1	C	0.03	0.0075		
+471	fart	part	fart	part	idiom part and parcel	84	B			NN1	NN1	B+	0.23	0.0575		
+472	faucet	facet	fOsIt	f&sIt	coll. facets of emotion	84	B			NN1	NN1	I	0.29	0.058		
+473	fervor	further	f9rv0r	f9rD0r	idiom so far and no further	86	B			NN1	AV0	E+	0.38	0.06333333		
+474	fife	wife	f1f	w1f		86	B			NN1	NN1		0.34	0.11333334		
+475	finch	fish	fInC	fI.S	coll. fish and chips	87	B			NN1	NN1	B	0.29	0.0725		
+476	fissure	figure	fIS.0r	fIgj0r	quote after the figure of man (Isa 44:13)	88	B			NN1	NN1	Q+	1.09	0.18166667		
+477	flies	(ha)ve eyes	fl1z	v.1z	title I only have eyes for you	90	B	1 syll lost		NN2	VHB NN1	Q+	0.2	0.05		
+478	focus	hocus	f5k0s	h5k0s	coll. hocus-pocus'	90	B	non-word		NN1	NN1	R	0.52	0.104		
+479	foible	fable	f3b0l	f4b0l		90	B			NN1	NN1		0.29	0.058		
+480	fort	fourth	fOrt	fOrT		88	B	see fit	Black English	NN1	NN1		0.18	0.045		
+481	fowl	fall	f2l	fOl	idiom fall of the law	92	B			NN1	NN1	E+	0.29	0.096666664		
+482	fowl	fool	f2l	ful	proverb there's no fool like an old fool	92	B			NN1	NN1	S+	0.29	0.096666664		
+483	fronds	friends	frandz	frEndz	idiom visit a sick friend	93	B			NN2	NN2	I+	0.27	0.045		
+484	futility	utility	fjutIl0tI	.jutIl0tI	coll. public utility	94	B			NN1	NN1	C	0.27	0.03		
+485	game	gay	g4m	g4.		95	B			NN1	AJ0		0.14	0.046666667		
+486	gargoyles	gargles	garg3lz	garg0lz		96	B			NN2	NN2		0.3	0.042857144		
+487	ghoul	fool	gul	ful	proverb there's no fool like an old fool	97	B	see fowl		NN1	NN1	S+	0.52	0.17333333		
+488	glance	dance	gl&ns	d.&ns	idiom may I have the next dance	98	B			NN1	NN1	I+	0.5	0.1		
+489	gloom	room	glum	.rum	coll. room for improvement	98	B			NN1	NN1	I	0.29	0.0725		
+490	God	gard	ga.d	gard	New England	99	B			NN1	NN1		0.04	0.01		
+491	gourd	word	gOrd	w9rd	quote there was never heard a discouraging word ...	100	B	what?		NN1	NN1	Q+	0.95	0.2375		
+492	gripe	grape	gr1p	gr4p		102	B	what?		NN1	NN1		0.27	0.0675		
+493	groin	coin	gr3n	k.3n	idiom toss a coin in the fountain	102	B			NN1	NN1	E+	0.13	0.0325		
+494	grouse	gross	gr2s	gr5s	proverb you can always tell a girl is game ...	103	B	what?		NN1	AJ0	S+	0.29	0.0725		
+495	hake	cake	h4k	k4k	quote let them eat cake (M. Antoinette)	106	B			NN1	NN1	Q+	0.34	0.11333334		
+496	hash	haste	h&S.	h4st	proverb more speed, less haste	108	B			NN1	NN1	S+	0.43	0.1075		
+497	heap	sheep	hip	Sip	proverb it doesn't take a smart girl to separate the sheep from the goats	109	B			NN1	NN1	S+	0.66	0.22		
+498	heresy	hair I see	hErIsI	h7r1si	idiom hair in the soup	110	B			NN1	NN1 PNP VVB	E+	0.71	0.11833333	e	
+499	hip	lip	hIp	lIp	idiom stiff upper lip	111	B			NN1	NN1	C+	1	0.33333334		
+500	horses	hoses	hOrsIz	h5.zIz	idiom firemen play their hoses	113	B			NN2	NN2	E+	0.38	0.06333333		
+501	hull	hell	h^l	hEl	coll. hell of a place	114	B	WS had hull-whole		NN1	NN1	I	0.26	0.086666666		
+502	humor	human	hjum0r	hjum0n	proverb to err is human	114	B			NN1	NN1	S+	0.31	0.051666666		
+503	hurter	hitter	h9r?0r	hI.?0r		114	B	what?		NN1	NN1		0.33	0.055		
+504	icicle	bicycle	.1sIk0l	b1sIk0l	_def.	116	B			NN1	NN1		0.21	0.03		
+505	ilk	milk	.Ilk	mIlk	idiom milk of human kindness	117	B			NN1	NN1	E+	0.19	0.0475		
+506	impotentate	potentate	Imp5?0nt4t	..p5?0nt4t		118	T	non-word in P, syllable loss		NN1	NN1		0.24	0.024		1
+507	interdict	into Dick	In?0rdIkt	In?0.dIk.		121	T			NN1	PRP NN1		0.1	0.011111111	e	
+508	invoices	voices	Inv3sIz	..v3sIz	idiom hear strange voices	121	B			NN2	NN2	I+	0.2	0.028571429		1
+509	irk	work	.9rk	w9rk	proverb the devil finds work for idle hands	122	B			NN1	NN1	S+	0.13	0.0325		
+510	jackal	Jack hell	J&k.0l	J&khEl	coll. give someone hell	123	B			NN1	NP0 NN1	I	0.3	0.05		
+511	jag	rag	J&g	r&g	idiom a rag, a bone, and a hank of hair	123	B			NN1	NN1	E+	0.38	0.12666667		
+512	jilting	tilting	JIl?IN	tIl?IN		125	B	jolting?		NN1	NN1		1	0.16666667		
+513	jugs	bugs	J^gz	b^gz	idiom get the bugs out	126	B			NN2	NN2	E+	1	0.25		
+514	kilt	killed	kIlt	kIld		129	B			NN1	VVN		0.11	0.0275		
+515	kin	skin	.kIn	skIn	quote the skin you love to touch (Woodbury Soap)	129	B			NN1	NN1	Q+	0.1	0.025		
+516	kingdom	king dumb	kINd0m	kINd^m		130	B			NN1	NN1 AJ0		0.27	0.045		
+517	kitty	pity	kI?I	pI?I	idiom more's the pity	130	B			NN1	NN1	E+	0.23	0.0575		
+518	largesse	large ass	larJEs	larJ&s		134	B			NN1	AJ0 NN1		0.2	0.033333335	l	
+519	limb	lamb	lIm	l&m	title Mary had a little lamb	138	B			NN1	NN1	Q+	0.28	0.093333334		
+520	linden	linen	lInd0n	lIn.0n	proverb wash one's linen in public (chiefly Brit.)	138	B			NN1	NN1	S+	0.11	0.018333333		
+521	lisp	Liszt	lIsp	lIst		139	B			NN1	NP0		0.18	0.045		
+522	locomotive	local motive	l5k0.m5?Iv	l5k0lm5?Iv		141	B			NN1	AJ0 NN1		0.08	0.008		
+523	lodger	ledger	laJ0r	lEJ0r	coll. dusty legder	141	B			NN1	NN1	C	0.27	0.054		
+524	loon	moon	lun	mun	coll. full moon	142	B			NN1	NN1	C	0.38	0.12666667		
+525	lust	lost	l^st	last	proverb it is better to have loved and lost ...	143	B	two diff synt. contexts altogher		NN1	VVN	S+	0.26	0.065		
+526	medication	meditation	mEdIk4S0n	mEdIt4S0n	coll. transcendental meditation	148	B			NN1	NN1	C	0.14	0.015555556		
+527	menopause	men who pause	mEn.0pOz	mEnhupOz		148	B			NN1	NN1 DTQ VVB		0.35	0.04375		
+528	millstone	milestone	mIlst5n	m1lst5n	idiom a milestone on the road to ...	150	B			NN1	NN1	E+	0.28	0.04		
+529	mirage	marriage	mIraZ	m&rIJ	idiom marriage of convenience	150	B			NN1	NN1	I+	0.87	0.174	l	-1
+530	moan	mowin'	m5.n	m5In	idiom mowing of the grass	151	B			NN1	NN1	I+	0.11	0.0275		-1
+531	moats	most	m5ts	m5.s	idiom get the most for one's money	151	B			NN2	NN1	I+	0.07	0.0175		
+532	monsoon	man soon	mansun	m&nsun		152	B			NN1	NN1 AV0		0.18	0.03	l	
+533	mosque	moss	mask	mas.	proverb a rolling stone gathers no moss	153	B			NN1	NN1	S+	0.1	0.025		
+534	muscle	missile	m^s0l	mIs0l	coll. guided missile	154	B			NN1	NN1	C	0.29	0.058		
+535	narc	knock	nark	na.k	idiom knock on the door	157	B			NN1	NN1	E+	0.03	0.0075		
+536	niece	knees	nis	niz		159	B			NN1	NN2		0.07	0.023333333		
+537	night	light	n1t	l1t	quote let there be light ...	159	B			NN1	NN1	Q+	0.23	0.07666667		
+538	node	note	n5d	n5t	coll. keep notes	160	B			NN1	NN1	I	0.09	0.03		
+539	none	one	n^n	w^n	idiom one in a million	160	B			NN1	NN1	E+	0.52	0.17333333		
+540	Norse	horse	nOrs	hOrs	idiom a horse of a different color	161	B			NN1	NN1	E+	0.52	0.13		
+541	O-van	oven	5v&n	5v0n		242	B	non-word		NN1	NN1		0.23	0.0575		
+542	parakeets	pair of tits	p&r0kits	p7r0tIts	coll. pair of tits	169	B			NN2	NN1 PRP NN1	I	0.5	0.0625		
+543	parrots	Paris	p&r0ts	p&r0.s	title I love Paris in the springtime	170	B	WS had parrots-carrots		NN2	NP0	Q+	0.07	0.011666667		
+544	parrots	parents	p&r0.ts	p&r0nts	quote love thy parents	170	B			NN2	NN2	Q+	0.1	0.014285714		
+545	paunch	punch	pOnC	p^nC	idiom pull one's punches	171	B			NN1	NN1	E+	0.28	0.07		
+546	pest	post	pEst	p5st	idiom desert one's post	174	B			NN1	NN1	E+	0.29	0.0725		
+547	phrase	phase	fr4z	f.4z	idiom a phase one's passing through	175	B			NN1	NN1	E+	0.03	0.0075		
+548	piety	pie & tea	p10.tI	p10nti	coll. pie and tea	176	B			NN1	NN1 CJC NN1	B	0.25	0.041666668		
+549	pill	will	pIl	wIl	proverb where there's a will, there's a way	176	B			NN1	NN1	S+	1	0.33333334		
+550	pool	fool	pul	ful	proverb there's no fool like an old fool	179	B			NN1	NN1	S+	0.21	0.07		
+551	potpourri	popery	p5puri	p5p0rI		180	B			NN1	NN1		0.36	0.06		
+552	preposition	proposition	prEp0zIS0n	prap0zIS0n	coll. make propositions	181	B			NN1	NN1	I	0.29	0.029		
+553	prism	prison	prIz0m	prIz0n	proverb iron bars do not a prism make	182	B			NN1	NN1	S+	0.11	0.018333333		
+554	pun	gun	p^n	g^n	idiom point a gun	184	B			NN1	NN1	I+	0.66	0.22		
+555	pun	bun	p^n	b^n	idiom throw hot, cross buns	184	B			NN1	NN1	E+	0.16	0.053333335		
+556	pyromaniac	pie maniac	p1r5m4ni0k	p1..m4ni0k		187	B			NN1	NN0 NN1		0.27	0.027		1
+557	quake	cake	kw4k	k.4k	proverb you can't have your cake and eat it, too	188	B			NN1	NN1	S+	0.11	0.0275		
+558	quarrel	barrel	kwOr0l	b.&r0l	title roll out the barrel	188	B			NN1	NN1	Q+	0.92	0.15333334		
+559	quench	wench	kwEnC	.wEnC	coll. lusty wench	188	B			NN1	NN1	C	0.1	0.02		
+560	query	queer	kwirI	kwir.		188	B			NN1	NN1		0.39	0.078		1
+561	quill	will	kwIl	.wIl	proverb where there's a will there's a way	189	B			NN1	NN1	S+	0.1	0.025		
+562	quirk	work	kw9rk	.w9rk	idiom all work and no pay	189	B			NN1	NN1	S+	0.1	0.02		
+563	quiver	giver	kwIv0r	g.Iv0r	quote the Lord loveth a cheerful giver	189	B			NN1	NN1	Q+	0.22	0.036666665		
+564	rabbit	habit	r&bIt	h&bIt	idiom kick the habit	190	B			NN1	NN1	T+	0.66	0.132		
+565	Rachmaninov	man enough	r&km&nInOf	...m&nIn^f	idiom not man enough	190	B			NN1	NN1 AV0	E+	0.93	0.093		1
+566	reef	wreath	rif	riT	coll. coral reef	193	B			NN1	NN1	C	0.24	0.08		
+567	resolution	revolution	rEz0luS0n	rEv0luS0n		195	B			NN1	NN1		0.52	0.057777777		
+568	rib-off	ripoff	rIbaf	rIpaf	idiom that's a rip-off	196	B			NN1	NN1	P+	0.14	0.028		
+569	robot	row boat	r5bat	r5b5t		198	B			NN1	NN0 NN1		0.25	0.05		
+570	rooks	books	rUks	bUks		198	B	spoonerism read books - lead rooks		NN2	NN2		0.66	0.165		
+571	rubble	trouble	.r^b0l	tr^b0l	title nobody knows the trouble I've seen	199	B			NN1	NN1	Q+	0.07	0.011666667		
+572	rupture	rapture	r^pC0r	r&pC0r	coll. sheer rapture	200	B			NN1	NN1	C	0.28	0.046666667		
+573	ruse	rose	ruz	r5z	quote a rose is a rose is a rose	200	B			NN1	NN1	Q+	0.27	0.09		
+574	rusk	risk	r^sk	rIsk	idiom run the risk	200	B			NN1	NN1	I+	0.29	0.0725		
+575	S	ass	Es	&s	idiom make an ass of oneself	201	B			NN1	NN1	E+	0.2	0.1		
+576	salivation	salvation	s&lIv4S0n	s&l.v4S0n		202	B			NN1	NN1		0.1	0.011111111		1
+577	sarong	(what')s wrong	s0rON	s.rON	idiom what's wrong	203	ne			NN1	VBB AVO	I+	0.04	0.008		
+578	scar	star	skar	star	title stars and stripes forever	203	B			NN1	NN1	Q+	0.14	0.035		
+579	scarlets	harlots	skarlIts	.harl0ts	coll. film starlet	203	B			NN2	NN2	R	0.47	0.05875		
+580	scherzo	shirt so	sk7rts5	S.9rts5		204	B			NN1	NN1 AV0		0.57	0.08142857		
+581	screw	shrew	skru	S.ru	title the taming of the shrew	204	B			NN1	NN1	Q+	0.27	0.0675		
+582	scrod	screwed	skrad	skrud	coll. get screwed	205	B			NN1	VVN	I	0.3	0.06		
+583	sherry	cherry	SErI	CErI	idiom cut wine	209	B			NN1	NN1	I+	0.15	0.0375		
+584	shoat	shot	S5t	Sat	quote and fired the shot heard round the world	209	B			NN1	NN1	Q+	0.27	0.09		
+585	sin	gin	sIn	JIn	coll. gin and tonic	211	B			NN1	NN1	B	1	0.33333334		
+586	sing	thing	sIN	TIN	idiom it don't mean a thing	211	B			NN1	NN1	E+	0.25	0.083333336		
+587	sitar	sitter	sI?ar	sI?0r	coll. baby sitter	211	B			NN1	NN1	R	0.24	0.048		
+588	snake	shake	sn4k	S.4k	coll. fair shake	214	B			NN1	NN1	C	0.27	0.0675		
+589	snore	snare	snOr	sn7r	coll. a snare and a delusion	214	B			NN1	NN1	B	0.29	0.0725		
+590	spies	eyes	sp1z	..1z	title can't keep my eyes off of you	218	B	good example for syllable to be important		NN2	NN2	Q+	0.24	0.06		
+591	sports	spots	spOrts	spa.ts	proverb a leopard can't change its spots	217	B			NN1	NN2	S+	0.28	0.046666667		
+592	squid	kid	skwId	.k.Id	idiom a crazy mixed-up kid	218	B			NN1	NN1	E+	0.19	0.038		
+593	stock	stuck	stak	st^k		220	T			NN1	AJ0		0.21	0.0525		
+594	swish	wish	swIS	.wIS	idiom grant your wish	224	B			NN1	NN1	I+	0.08	0.02		
+595	talc	talk	t&lk	tO.k	idiom talk of the town	226	B			NN1	NN1	E+	0.33	0.0825		
+596	tan	man	t&n	m&n	idiom richest man in town	226	B			NN1	NN1	E+	1	0.33333334		
+597	taste	paste	t4st	p4st	coll. scissors and paste	227	B			NN1	NN1	B	0.31	0.0775		
+598	teams	times	timz	t1mz	proverb small minds can't handle great times	227	B			NN2	NN2	S+	0.28	0.07		
+599	teat	to eat	t.it	t0it	idiom what's to eat	228	B			NN1	TO0 VVI	I+	0.07	0.0175		
+600	tens	tents	tEnz	tEns	idiom fold one's tents and steal away	228	B			NN2	NN2	E+	0.07	0.0175		
+601	thrall	thrill	TrOl	TrIl	idiom the thrill of a lifetime	230	B			NN1	NN1	I+	0.3	0.075		
+602	tight	right	t1t	r1t	idiom defend one's rights	231	B			NN1	NN1	I+	0.52	0.17333333		
+603	time	nine	t1m	n1n	proverb a stitch in time saves nine	214	B	see snitch		NN1	NN1	S+	0.77	0.25666666		
+604	trillium	trillion	trIli0m	trIli0n	idiom make a million/trillion	235	B			NN1	NN1	I+	0.11	0.015714286		
+605	tug	bug	t^g	b^g	idiom get the bugs out	237	B			NN1	NN1	E+	0.38	0.12666667		
+606	typhoon	tycoon	t1fun	t1kun	coll. business tycoon	238	B			NN1	NN1	R	0.44	0.088		
+607	umber	rumba	.^mb0r	r^mb0.	idiom dance a rumba	119	T	WS had umber-number		NN1	NN1	I+	0.07	0.011666667		
+608	Uranus	your anus	jur4n0s	jOr4n0s		240	B			NN2	DPS NN1		0.29	0.04142857	e	
+609	valet	valley	v&lIt	v&lI.	title how green was my valley	242	B			NN1	NN1	Q+	0.07	0.014		
+610	veil	bail	v4l	b4l	quote old man river	243	B			NN1	NN1	Q+	0.44	0.14666666		
+611	(a) viaduct	(to) buy a duck	v10d^kt	b10d^k.		244	B			NN1	VVI AT0 NN1		0.51	0.07285714		
+612	vice	spice	.v1s	sp1s	idiom the spice of life	245	B			NN1	NN1	E+	0.76	0.19		
+613	viles	violins	v1.l..z	v10lInz		245	B			NN2	NN2		0.28	0.04		-1
+614	villain	willin'	vIlIn	wIlIn	idiom ready, willing, and able	245	B			NN1	AJ0	B+	0.08	0.016		
+615	volley	folly	valI	falI	proverb war is folly	246	B			NN1	NN1	S+	0.17	0.0425		
+616	volt	fault	v5lt	fOlt	idiom it wasn't my fault	247	B			NN1	NN1	I+	0.43	0.1075		
+617	warm	worm	wOrm	w9rm	proverb the early bird gets the worm	249	B			NN1	NN1	S+	0.29	0.0725		
+618	whore	tour	hOr	t8r	coll. tour de force	252	B			NN1	NN1	F	1.29	0.43		
+619	wine	line	w1n	l1n	idiom line of least resistance	254	B			NN1	NN1	E+	0.25	0.083333336		
+620	wiper	viper	w1p0r	v1p0r	idiom take a viper to one's bosom	254	B			NN1	NN1	E+	1	0.2		
+621	writs	wits	rIts	wIts	idiom have one's writs about one	256	B			NN2	NN2	E+	0.21	0.0525		
+622	youth	use	juT	jus	idiom what's the use?	261	B			NN1	NN1	E+	0.11	0.036666665		
+623	zinnia	seein' you	zInj0	sinj0	idiom I'll be seeing you	262	B			NN1	VVG NN1	I+	0.22	0.044		
+624	boa	bore	b50	bOr		7	B	overlooked by WS		NN1	NN1		0	0		
+625	carps	cops	karps	kO.ps	coll. cops and robbers	43	B			NN2	NN2	B	0	0		
+626	fry	fly	fr1	fl1	idiom fly in the ointment	94	B			NN1	NN1	E+	0	0		
+627	hair	here	h&r	hir	idiom here today, gone tomorrow	106	B	elliptical		NN1	AV0	E+	0	0		
+628	tequila	to kill ya	tEkil.0	t0kIlj0		199	B	see rum		NN1	TO0 VVI PNP		0	0		
+629	sheep	cheap	Sip	Cip	proverb buy cheap, sell dear	209	B			NN1	NN1	S+	0	0		
+630	sheik	shreak	S.ik	Srik	coll. terrified shreak	209	B			NN1	NN1	C	0	0		
+631	strumpet	trumpet	str^mpIt	.tr^mpIt		245	B	see vile		NN1	NN1		0.08	0.01		
+632	pastel	past her	p&stEl	p&st0r		118	T	see indigo, that's pushing it		AJ0	PRP PNP		0.37	0.061666667		
+633	for heifer	forever	f0hEf0r	f0.Ev0r		109	B			PRP NN1	AV0		0.22	0.03142857		
+634	up ill	uphill	^p.Il	^phIl		117	T	what?		PRP AJ0	AV0		0.07	0.014		
+635	amorous	him or us	.&m0r0s	hIm0r0s	idiom it's them or us	12	B			AJ0	PNP CJC PNP	E+	0.33	0.047142856		
+636	angora	angry	&NgOr0	&Ng.rI	idiom don't be angry	16	B	see artesian		AJ0	AJ0	I+	0.52	0.086666666	l	1
+637	bartered	buttered	bar?0rd	b^.?0rd	idiom which side one's bread is buttered on	25	B			AJ0	AJ0	E+	0.24	0.034285713		
+638	black	back	bl&k	b.&k	idiom back right where one begun	119	B	see indigo		AJ0	AJ0	S+	0.06	0.015		
+639	dilated	delighted	d1l4?Id	dIl1?Id	idiom delighted to meet you	67	B			AJ0	AJ0	I+	0.54	0.07714286		
+640	draped	raped	dr4pt	.r4pt		69	B			AJ0	AJ0		0.11	0.022		
+641	drugged	dragged	dr^gd	dr&gd		70	B			AJ0	AJ0		0.28	0.056		
+642	emissary	necessary	.EmIsErI	nEs0sErI		76	B			AJ0	AJ0		1.11	0.13875		
+643	foiled	fooled	f3l	ful		90	B			AJ0	AJ0		0.3	0.1		
+644	free	three	fri	Tri		93	B		Black English	AJ0	AJ0		0.24	0.08		
+645	gastronomical	astronomical	g&str0namIk0l	.&str0namIk0l	coll. astronomical costs	96	B			AJ0	AJ0	C	0.18	0.013846153		
+646	gorgeous	gorgers	gOrJ0.s	gOrJ0rz		100	B			AJ0	NN2		0.11	0.015714286		
+647	insulted	consulted	.Ins^l?Id	k0ns^l?Id	coll. consult a doctor	120	B			AJ0	AJ0	I	0.19	0.02111111		
+648	irritated	irrigated	IrIt4?Id	IrIg4?Id		122	B			AJ0	AJ0		0.66	0.0825		
+649	lesbian	Lebanese	lEzbi0n..	lE.b.0niz		136	B			AJ0	AJ0		0.88	0.09777778		
+650	oval	awful	5v0l	Of0l		167	B			AJ0	AJ0		0.43	0.1075		
+651	quasi	crazy	kw4z1	kr4zI	idiom crazy in the head	188	B			AJ0	AJ0	I+	0.42	0.084		
+652	queasy	easy	kwizI	..izI		188	B			AJ0	AJ0		0.21	0.042		
+653	queer	dear	kw6r	d.6r	idiom dear to my heart	188	B			AJ0	AJ0	I+	0.45	0.1125		
+654	rheumatic	romantic	rum&.?Ik	r5m&n?Ik	idiom incurable romantic	196	B			AJ0	AJ0	C+	0.37	0.04625		
+655	torrid	horrid	tarId	harId	quote there was a little girl, who had a little curl ...	234	B			AJ0	AJ0	Q+	0.44	0.088		
+656	unshed	unsaid	^nSEd	^nsEd	idiom some things are better left unsaid	209	B			AJ0	AJ0	E+	0.09	0.018		
+657	clothed	closed	kl5Dd	kl5zd		50	B			AJ0	AJ0		0.44	0.088		
+658	mint	meant	mInt	mEnt	idiom I meant well	150	B			VVD	VVD	I+	0.2	0.05		
+659	must	messed	m^st	mEst		154	B			VM0	VVD		0.26	0.065		
+660	porn	born	pOrn	bOrn	quote a star is born	180	B			NN1	VVN	Q+	0.16	0.04		
+661	raffled	ruffled	r&f0ld	r^f0ld	idiom have one's feathers ruffled	190	B			VVN	VVN	E+	0.27	0.045		
+662	reaped	raped	ript	r4pt		192	B			VVN	VVN		0.27	0.0675		
+663	renegaded	relegated	rEn0g4dId	rEl0g4?Id	idiom relegated to the back seat	195	B			VVN	VVN	I+	0.35	0.03888889		
+664	shed	shut	SEd	S^t	idiom some things are better left unsaid	209	B			VVN	VVN	E+	0.38	0.12666667		
+665	singed	sinned	sInJd	sIn.d	quote forgive me, father, for I have sinned	211	B			VVN	VVN	Q+	0.34	0.068		
+666	forking	fucking	fOrkIN	f^.kIN	coll. fucking around	91	B			VVG	VVG	I	0.31	0.051666666		
+667	keel	kill	kil	kIl		129	B			VVG	VVG		0.1	0.033333335		
+668	accost	cost	0kast	.kast		6	B			VVI	VVI		0.04	0.008		1
+669	abomination	denomination	.0bamIn4S0n	dInamIn4S0n	idiom belong to a denomination	6	B			NN1	NN1	I+	0.61	0.055454545		
+670	aches	eggs	4ks	Egz	coll. ham and eggs	7	B			NN2	NN2	B	0.44	0.14666666		
+671	alder	elder	Old0r	Eld0r	idiom ceremony in front of an elder	10	B			NN1	NN1	E+	0.3	0.06		
+672	alligator	elevator	&lIg4?0r	El0v4?0r		10	B			NN1	NN1		0.86	0.1075		
+673	anals	annals	4n0lz	&n0lz		84	B	see fart		NN2	NN2		0.27	0.054		
+674	angel	angle	4nJ0l	&Ng0l	coll. bisecting angles	30	B	see bisexing		NN1	NN1	C	0.85	0.17		
+675	apse	lapse	.&ps	l&ps	coll. lapse of memory	14	B			NN1	NN1	I	0.08	0.02		
+676	asses	masses	.&sIz	m&sIz	quote religion is the opiate of the masses	17	B			NN2	NN2	Q+	0.19	0.038		
+677	bee	knee	bi	ni	title climb up on my knee, sonny boy	27	B			NN1	NN1	Q+	0.52	0.26		
+678	blekfast	breakfast	blEkf0st	brEkf0st		75	B	see election	Chinese	NN1	NN1		0.11	0.01375		
+679	brain	plane	br4n	pl4n	quote the rain in Spain ...	216	B	see spay		NN1	NN1	Q+	0.27	0.0675		
+680	bungle	jungle	b^Ng0l	J^Ng0l	idiom law of the jungle	38	B			NN1	NN1	E+	0.66	0.11		
+681	bus	bush	b^s	bUS	idiom a bird in the hand...	39	B			NN1	NN1	S+	0.45	0.15		
+682	buy	rye	b1	r1	title catcher in the rye	39	B			NN1	NN1	Q+	0.66	0.33		
+683	cashew	cash who	k&S.u	k&Shu		43	T			NN1	NN1 DTQ		0.07	0.014		
+684	caws	calls	kO.z	kOlz	coll. long-distance call	44	B			NN2	NN2	R	0.08	0.02		
+685	cells	selves	sEl.z	sElvz	quote the fault, dear Brutus, is not ...	45	B			NN2	NN1	Q+	0.17	0.034		
+686	char	chair	Car	C7r	idiom legs over the arm of your chair	46	B			NN1	NN1	E+	0.29	0.096666664		
+687	chassis	chaos	C&si.	k4.as	quote the whole world is in a state of chaos	46	B	what?		NN1	NN2	Q+	1.12	0.224		
+688	chatter	matter	C&?0r	m&?0r	idiom mind over matter	46	B			NN1	NN1	E+	1	0.2		
+689	clings	kings	klINz	k.INz	idiom sport of kings	49	B			NN2	NN2	I+	0.06	0.012		
+690	coat	goat	k5t	g5t	idiom sheep are separated from the goats	50	B			NN1	NN1	E+	0.11	0.036666665		
+691	comma	coma	kam0	k5m0		52	B	what?		NN1	NN1		0.25	0.0625		
+692	convention	invention	k0nvEnS0n	.InvEnS0n	proverb necessity is the mother of invention	54	B			NN1	NN1	S+	0.1	0.011111111		
+693	coppice	copies	kapIs	kapIz		55	B			NN1	NN2		0.07	0.014		
+694	cores	cause	kOrz	kO.z	coll. cause and effect	55	B			NN2	NN1	B	0.03	0.0075		
+695	coroner	corner	kar0n0r	kOr.n0r	proverb death is just around the corner	56	B			NN1	NN1	S+	0.28	0.04		
+696	crime	time	kr1m	t.1m	proverb a stitch in time saves nine	214	B	see snitch		NN1	NN1	S+	0.17	0.0425		
+697	cruller	color	kr^l0r	k.Ol0r	idiom horse of a different color	59	B			NN1	NN1	E+	0.52	0.074285716		
+698	cuneiform	uniform	kjuni0fOrm	.jun.0fOrm	idiom stripped of one's uniform	60	B			NN1	NN1	E+	0.23	0.023		
+699	cycle	circle	s1.k0l	s9rk0l	idiom vicious circle	61	B			NN1	NN1	C+	0.33	0.055		
+700	defect	effect	dIfEkt	.IfEkt	coll. cause and effect	55	B	see core		NN1	NN1	B	0.11	0.018333333		
+701	detention	invention	di.tEnS0n	.InvEnS0n	idiom mother of invention	66	B			NN1	NN1	E+	0.97	0.107777774		
+702	dower	hour	d20r	.20r	coll. by the hour	69	B			NN1	NN1	I	0.11	0.0275		
+703	dung	tongue	d^N	t^N	idiom speak with forked tongue	72	B			NN1	NN1	E+	0.09	0.03		
+704	eel	wheel	.il	wil	idiom put one's shoulder to the wheel	75	B			NN1	NN1	E+	0.13	0.043333333		
+705	elk	ilk	Elk	Ilk		76	B			NN1	NN1		0.21	0.07		
+706	elm	helm	.Elm	hElm	coll. at the helm	76	B	double pun		NN1	NN1	C	0.07	0.0175		
+707	elocution	electrocution	El0k....juS0n	ilEktr0kjuS0n	_def.	76	B			NN1	NN1		0.88	0.06769231		-1
+708	emery	memory	.Em0rI	mEm0rI	title Thanks for the Memory	76	B			NN1	NN1	Q+	0.19	0.031666666		
+709	emotion	motion	im5S0n	.m5S0n		77	B			NN1	NN1		0.13	0.021666666		1
+710	enamor	a hammer	En&m0r	0h&m0r		77	B	what?		NN1	NN1		0.78	0.13		
+711	encyclical	bicycle	.EnsIklIk0l	b1.sIk...0l	quote from Daisy Bell	77	B			NN1	NN1	Q+	0.85	0.07727273		1
+712	error	era	Er0r	ir0.	idiom dawn of an era	79	B			NN1	NN1	E+	0.32	0.08		
+713	excess	success	.EksEs	s0ksEs	idiom nothing succeeds like success	81	B			NN1	NN2	E+	0.36	0.06		
+714	fade	fate	f4d	f4t	idiom a fate worse than death	83	B			NN1	NN1	E+	0.09	0.03		
+715	farce	force	fars	fOrs	coll. tour de force	84	B			NN1	NN1	F	0.24	0.06		
+716	fender	feather	fEnd0r	fE.D0r	idiom knock over with a feather	85	B			NN1	NN1	E+	0.15	0.025		
+717	fetter	feather	fE?0r	fED0r	proverb bards of a feather ...	24	B	see bard		NN1	NN1	S+	0.23	0.046		
+718	flat	fat	fl&t	f.&t	idiom live on the fat of the land	89	B			NN1	NN1	E+	0.06	0.015		
+719	fodder	further	fa.d0r	f9rD0r	idiom be further ahead	90	B			NN1	AV0	I+	0.38	0.06333333		
+720	fury	jury	fjUrI	J.UrI	idiom trial by jury	94	B			NN1	NN1	I+	1.1	0.22		
+721	gal	girl	g&.l	g9rl		95	B	abbreviation gal-gallon		NN1	NN1		0.33	0.0825		
+722	gem	jam	JEm	J&m		96	B			NN1	NN1		0.2	0.06666667		
+723	gentiles	genitals	JEn.?1lz	JEnIt0lz	quote will of a man ... in the genitals (Schopenhauer)	96	B			NN2	NN2	Q+	0.61	0.07625		-1
+724	gibbon	ribbon	gIb0n	rIb0n	quote he promised to buy ... blue ribbons	97	B			NN1	NN1	Q+	0.52	0.104		
+725	glue	blue	glu	blu	title Rhapsody in Blue	98	B			NN1	NN1	Q+	0.31	0.10333333		
+726	grains	gains	gr4nz	g.4nz	coll. ill-gotten gains	100	B			NN2	NN2	C	0.03	0.006		
+727	grass	class	gr&s	kl&s	coll. cook with class	101	B			NN1	NN1	I	0.23	0.0575		
+728	greed	creed	grid	krid	idiom regardless of race, color, and creed	101	B			NN1	NN1	Q+	0.1	0.025		
+729	guild	guilt	gIld	gIlt	coll. guilt by association	103	B			NN1	NN1	I	0.09	0.0225		
+730	hair	fair	h7r	f7r	title Oh Dear what can the matter be, Johnny ...	106	B			NN1	NN1	Q+	0.38	0.12666667		
+731	helm	hell	hElm	hEl.	idiom to hell with you	110	B			NN1	NN1	I+	0.14	0.035		
+732	hose	house	h5z	h2s	proverb people who live in glass houses...	113	B			NN1	NN1	S+	0.36	0.12		
+733	hose	nose	h5z	n5z	idiom win by a nose	113	B			NN1	NN1	E+	0.52	0.17333333		
+734	humility	humidity	hjumIl0tI	hjumId0tI	idiom not the heat, but the humidity	114	B			NN1	NN1	E+	0.34	0.037777778		
+735	humus	humor	hjum0s	hjum0r	idiom lowest form of humor	114	B			NN1	NN1	I+	0.44	0.07333333		
+736	hunk	hank	h^Nk	h&Nk	coll. hank of game	114	B			NN1	NN1	I	0.28	0.07		
+737	information	inflammation	Inf.0rm4S0n	Infl0.m4S0n	coll. inflammation in the appendix	119	B			NN1	NN1	I	0.11	0.01		
+738	jest	chest	JEst	CEst	idiom play it close to one's chest	124	B			NN1	NN1	E+	0.18	0.045		
+739	jinx	links	JINks	lINks		125	B	what?		NN1	NN2		1	0.2		
+740	knot	night	nat	n1t	idiom the morning after the night before	131	B			NN1	NN1	E+	0.23	0.07666667		
+741	labradors	lavatories	l&br0dOr.z	l&v.0tOrIz		133	B			NN2	NN2		0.41	0.041		-1
+742	leeches	breeches	.liCIz	briCIz	idiom caught with one's breeches down	136	B			NN2	NN2	S+	0.32	0.053333335		
+743	linen	living	lIn0n	lIvIN	proverb it takes a heap/lot of living to make a house a home	138	B			NN1	NN1	S+	1.14	0.228		
+744	loom	womb	lum	wum	idiom fruit of the womb	142	B			NN1	NN1	E+	0.44	0.14666666		
+745	lore	law	lOr	lO.	idiom possession is nine points of the law	142	B			NN1	NN1	E+	0.03	0.01		
+746	mane	name	m4n	n4m	idiom travel under an assumed name	146	B			NN1	NN1	I+	0.25	0.083333336		
+747	manse	man's	m&ns	m&nz		146	B	abbr.		NN1	NN1		0.07	0.0175		
+748	meter	matter	mi?0r	m&?0r	idiom mind over matter	149	B			NN1	NN1	E+	0.3	0.06		
+749	minaret	minute	mIn0rEt	mIn..It	idiom I'll be there in a minute	150	B			NN1	NN1	I+	0.28	0.04		1
+750	molecule	monocle	malIkjul	man0k.0l		151	B			NN1	NN1		0.68	0.085		
+751	Monet	money	m5n4	m^nI	idiom marry someone for their money	152	B			NN1	NN1	I+	0.56	0.14	l	
+752	money	mummy	m^nI	m^mI	coll. mummy and daddy	152	B			NN1	NN1	B	0.14	0.035		
+753	monogamy	monotony	m5nag0mI	m0na?0nI	coll. break the monogamy	152	B			NN1	NN1	I	1	0.125		
+754	mulchness	mulch nest	m^lCnIs.	m^lCnEst	coll. mulch nest	154	T			NN1	NN0 NN1	R	0.27	0.03375		
+755	nab	gab	n&b	g&b	idiom gift of the gab	156	B			NN1	NN1	E+	1	0.33333334		
+756	nag	bag	n&g	b&g	idiom it's in the bag	156	B			NN1	NN1	E+	0.66	0.22		
+757	navel	naval	n4v0l	n4v0l	coll. naval engagenment	157	B			NN1	NN1	C	0	0		
+758	nonentity	identity	nanEn?ItI	.1dEn?ItI	idiom a case of mistaken identity	160	B			NN1	NN1	E+	0.71	0.078888886		
+759	odor	a door	5d0r	0dOr	coll. out of order	164	B			NN1	AT0 NN1	I	0.48	0.12	e	
+760	peephole	people	piph5l	pip.0l	idiom power to the people	173	B			NN1	NN1	I+	0.31	0.051666666		
+761	persistance	resistance	p0rsIst0ns	rI.zIst0ns	idiom path of least resistance	174	B			NN1	NN1	E+	0.62	0.062		
+762	pianist	penis	pi0nIs	pi.nIs	coll. 12-inch penis	175	B			NN1	NN1	R	0.04	0.006666667		1
+763	pickerel	pickle	pIk0r0l	pIk..0l	idiom be in a pickle	175	B			NN1	NN1	I+	0.07	0.01		1
+764	pillow	pillar	pIl5.	pIl0r	coll. pillar of fire	176	B			NN1	NN1	I	0.27	0.054		
+765	pitchers	pictures	pI.C0rz	pIkC0rz	idiom you ought to be in pictures	177	B			NN2	NN2	E+	0.18	0.025714286		
+766	pity	city	pI?I	sI?I	coll. the city of New York	177	B			NN1	NN1	I	1	0.25		
+767	plaice	face	pl4s	f.4s	title I've grown accustomed to her face	177	B			NN1	NN1	Q+	0.27	0.0675		
+768	platitude	altitude	pl&.?Itud	..&l?Itud	coll. altitudes of achievement	178	B			NN1	NN1	I	0.3	0.033333335		
+769	plot	pot	plat	p.at	idiom have a chicken in every pot	178	B			NN1	NN1	E+	0.06	0.015		
+770	poodle	paddle	pud0l	p&d0l	idiom be up the creek without a paddle	179	B			NN1	NN1	S+	0.3	0.06		
+771	poultry	poetry	p5.ltrI	p5I.trI		181	B			NN1	NN1		0.17	0.024285715		
+772	puce	pews	pjus	pjuz		184	B			NN1	NN2		0.07	0.0175		
+773	reasons	seasons	riz0nz	siz0nz	quote a man for all seasons	193	B			NN2	NN2	Q+	0.66	0.11		
+774	rhesus	reason	ris0s	riz0n	quote people's faith in reason	196	B			NN1	NN1	Q+	1.07	0.214		
+775	rigids	riches	rIJIdz	rICI.z	idiom from rags to riches	197	B			NN2	NN1	E+	0.29	0.048333332		
+776	roam	room	r5m	rum	idiom need lots of room	197	B			NN1	NN1	I+	0.27	0.09		
+777	runt	rent	r^nt	rEnt	coll. for rent	200	B			NN1	NN1	I	0.26	0.065		
+778	scandal	sandal	sk&nd0l	s.&nd0l		203	B			NN1	NN1		0.1	0.014285714		
+779	scarlets	starlets	skarlIts	starlIts	coll. film starlet	119	B	see indigo		NN2	NN2	R	0.14	0.0175		
+780	screech	speech	skriC	sp.iC	idiom freedom of speech	204	B			NN1	NN1	I+	0.26	0.052		
+781	sentiments	sediments	sEn?0m0nts	sE.d0m0nts	coll. fine sediment	207	B			NN2	NN2	C	0.28	0.028		
+782	sequels	equals	sikw0lz	.ikw0lz	idiom treat as equals	207	B			NN2	NN2	I+	0.08	0.011428571		
+783	shack	shock	S&k	Sak	idiom to come as a shock	208	B			NN1	NN1	I+	0.23	0.07666667		
+784	show van ism	chauvinism	S5v&nIz0m	S5vInIz0m		210	B			NN1	NN1		0.26	0.028888889		
+785	shrivelry	chivalry	SrIv0lrI	S.Iv0lrI	coll. act of chivalry	210	B			NN1	NN1	I	0.03	0.00375		
+786	slug	rug	sl^g	.r^g	idom sweep something under the rug	213	B			NN1	NN1	E+	0.19	0.0475		
+787	smacks	snacks	sm&ks	sn&ks	idiom drop in for snacks	213	B			NN2	NN2	I+	0.11	0.022		
+788	spaying	Spain	sp4IN	sp4.n	quote the rain in Spain ...	216	B			NN1	NP0	Q+	0.29	0.058		1
+789	spree	tree	spri	.tri	quote a partridge in a pear tree	218	B			NN1	NN1	Q+	0.26	0.065		
+790	stairs	stars	st7rz	starz	idiom avoid the stars	218	B	see also cell		NN1	NN2	I+	0.29	0.058		
+791	stilling	killing	stIlIN	.kIlIN	idiom kill two birds with one stone	53	B	see cone		NN1	NN1	E+	0.24	0.04		
+792	stork	storm	stOrk	stOrm	idiom calm before the storm	221	B			NN1	NN1	I+	0.66	0.132		
+793	Strauss	stress	str2s	strEs	coll. stress and strain	221	B			NN1	NN1	B	0.3	0.06		
+794	sty	sky	st1	sk1	quote a goldmine in the sky	222	B			NN1	NN1	Q+	0.16	0.053333335		
+795	Swede	sweet	swid	swit	idiom take the bitter with the sweet	224	B			NN1	NN1	E+	0.09	0.0225		
+796	her sylph	herself	sIlf	sElf	idiom keep something to oneself	224	B			DPS NN1	PNX	I+	0.2	0.05		
+797	Talmud	tall mud	talmUd	tOlm^d		226	B			NN1	AJ0 NN1		0.53	0.08833333		
+798	thaw	draw	T.O	drO	idiom quick on the draw	229	B			NN1	NN1	I+	0.7	0.23333333		
+799	tile	tale	t1l	t4l	title the tales from the Vienna woods	232	B			NN1	NN1	Q+	0.27	0.09		
+800	tine	time	t1n	t1m	idiom fall on hard times	232	B			NN1	NN1	E+	0.14	0.046666667		
+801	trail	trial	tr4.l	tr10l	idiom learn by trial and error	234	B			NN1	NN1	I+	0.33	0.066		
+802	trend	tent	trEnd	t.Ent	idiom right around the tent	235	B	WS had trend-end		NN1	NN1	E+	0.12	0.024		
+803	vampire	empire	v&mp10r	.Emp10r	idiom the sun never sets on the British Empire	242	B			NN1	NN1	Q+	0.53	0.07571428		
+804	vault	fault	vOlt	fOlt	idiom generous to a fault	243	B			NN1	NN1	E+	0.17	0.0425		
+805	vesper	whisper	vEsp0r	wIsp0r	idiom talk above a whisper	244	T			NN1	NN1	I+	0.29	0.048333332		
+806	VIP	way I pee	vi1pi	w41pi		245	B	rel. clause		NN1	NN1 PNP VVB		0.35	0.07		
+807	vituperation	recuperation	vItup0r4S0n	rIkup0r4S0n	coll. power of recuperation	246	B			NN1	NN1	I	0.6	0.054545455		
+808	wane	plain	.w4n	pl4n	quote the rain in Spain ...	249	B			NN1	NN1	Q+	0.49	0.1225		
+809	wedlock	hemlock	wEdlak	hEmlak		250	B			NN1	NN1		0.82	0.13666667		
+810	weevil	evil	wiv0l	.iv0l	idiom the lesser of two evils	251	B			NN1	NN1	E+	0.11	0.022		
+811	whisker	whisper	wIsk0r	wIsp0r	idiom talk below a whisper	252	B			NN1	NN1	I+	0.23	0.038333334		
+812	whorescopes	horoscopes	hOr.sk5ps	har0sk5ps		253	B	P: non-word		NN2	NN2		0.32	0.035555556		-1
+813	wife	wise	w1f	w1z	idiom a word to the wise	253	B			NN1	NN1	E+	1	0.33333334		
+814	windrow	window	wIndr5	wInd.5	quote serenade in the night 'neath a fair lady's window	254	B			NN1	NN1	Q+	0.03	0.005		
+815	yearning	learning	j9rnIN	l9rnIN	coll. higher learning	259	B			NN1	NN1	C	0.25	0.041666668		
+816	bourbon	Burden	burb0n	burd0n	idiom beast of burden	34	B	overlooked by WS		NN1	NN1	I+	0.21	0.035		
+817	cervix	service	s9rvIks	s9rvI.s	idiom at your service	67	B	see p. 38		NN1	NN1	I+	0	0		
+818	platitude	latitude	pl&d0tjud	.l&d0tjud	coll. longitude and latitude	178	B			NN1	NN1	B	0	0		
+819	Acapulco	a capella	ak0pUlk5	ak0pEl.0	_def.	6	ne		Italian	NP0	PRP NN1		0.63	0.07875		
+820	Aeneid	he need	.iniId	hini.d		8	T			NP0	PNP VVB		0.17	0.028333334		
+821	agate	I got	&gIt	1gat		9	T	Agate=name of font?		NP0	PNP VMB		0.5	0.125	l	
+822	Andalusian	and illusion	&nd0luZ0n	0ndIluZ0n		13	T	what?		NP0	CJC NN1		0.23	0.025555555		
+823	Argus	our guess	arg0s	argEs	idiom our guess is as good as yours	15	B	atrocious		NP0	AT0 NN1	E+	0.23	0.046		
+824	armageddon	I'm a-gettin'	arm0gEd0n	1.m0gE?In	idiom I'm getting out of here	16	B			NP0	PNP VBB VVG	I+	0.38	0.04222222		
+825	Atlas	at last	&tl0s	0tl&s	idiom at last, we are alone	18	ne			NP0	PRP AV0	Q+	0.47	0.094	e	
+826	Avon	havin'	.1v0n	h&vIn	idiom are you having any fun	20	T			NP0	VHG	S+	0.36	0.072		
+827	Baal	bail	b40l	b4.l		21	ne			NP0	VVB		0.04	0.01		
+828	Bangladesh	bang the dish	baNgl0dES	b&ND.0dIS		23	T			NP0	VVI AT0 NN1		0.89	0.09888889		
+829	Caruso	Crusoe	k0rus5	k.rus5	_def.	43	B			NP0	NP0		0.04	0.006666667		
+830	Champlain	champaigne	S&mpl4n	S&mp.4n	_def.	45	ne		Chinese	NP0	NN1		0.06	0.008571428	e	
+831	Champlain	chomping	S&mpl4n	Camp.IN	idiom horses chomping at the bit	45	T			NP0	VVG	Q+	0.86	0.122857146		
+832	Chianti	can't ye	kiant.i	k.&ntj4		47	B	WS had Chianti-can't you, see rum		NP0	VMB XX0 PNP		0.68	0.09714286		
+833	Dresden	dressed in	drEzd0n	drEstIn		70	T			NP0	VVN AVP		0.16	0.022857143		
+834	dunce	dance	d^ns	d&ns	idiom may I dance with you	72	T			NP0	VVI	I+	0.28	0.07		
+835	Essex	ass aches	Es0ks	&s4ks		79	ne			NP0	NN1 VVZ		0.48	0.096		
+836	Hallelujah	Honolulu	h&l0luj0	han0lulu	_def.	106	ne			NP0	NP0		1.07	0.13375		
+837	Harvard	harder	harv0rd	hard0r.	coll. try harder	108	T			NP0	AV0	I	0.55	0.07857143		
+838	Hogmanay	hog many	hagm0n4	hagmEnI		112	T			NP0	VVI PN1		0.51	0.07285714	l	
+839	Kodak	Koran	k5d&k	k0ran	_def.	132	ne			NP0	NP0		1.41	0.282	e	
+840	koodoo	could you	kud.u	kUdju	idiom brother, could you spare a dime	132	T			NP0	VBB PNP	Q+	0.38	0.076		
+841	Kumquat	come quick	k^mkwat	k^mkwIk		132	T			NP0	VVB AV0		0.44	0.06285714		
+842	Manhasset	man has it	m&nh&sIt	m&nh&zIt		157	T	see Nantucket		NP0	NN1 VHZ PNP		0.07	0.00875		
+843	Mecca	maker	mEk0.	m4k0r	idiom meet one's maker	148	T			NP0	NN1	E+	0.32	0.064		
+844	Nantucket	Nan took it	n&nt^kIt	n&ntUkIt		157	T			NP0	NP0 VVD PNP		0.28	0.035		
+845	Nero	near	n6r5	n6r.	idiom the end is near	158	T			NP0	AJ0	I+	0.24	0.06		1
+846	nurture	nature	n9rC0r	n4.C0r	coll. mother nature	162	B			NP0	NN1	R	0.33	0.055		
+847	Parthenon	passing on	parT0nan	p&.sInan	coll. an idea worth passing on	170	T			NP0	VVG AVP	P	0.32	0.04		
+848	Pontius	conscious	p^nS0s	kanS0s	coll. semi-conscious	179	T			NP0	AJ0	R	0.5	0.083333336		
+849	Seoul	sold	s5l.	s5ld		207	T			NP0	VVN		0.09	0.0225		
+850	Thinatra	Sinatra	TInatr0	sInatr0		230	ne		lisp	NP0	NP0		0.11	0.015714286		
+851	Tibet	to bet	tIbEt	t0bEt	title to be your life	231	T			NP0	TO0 VVI	Q+	0.01	0.002		
+852	Uruguay	your way	jUr0gw4	jOr..w4	proverb you go your way and I'll go mine	241	T			NP0	DPS NN1	S+	0.51	0.07285714		1
+853	Pawtucket	Pa took it	pOtakIt	patUkIt		157	T	see Nantucket		NP0	NN1 VVD PNP		0	0		
+854	Faust	first	f2.st	f9rst	quote first in war, first in peace, ...	85	B			NP0	AV0	Q+	0.34	0.068		
+855	Harvard	our word	harv0rd	.arw0rd	idiom our word against yours	108	B			NP0	DPS NN1	I+	0.16	0.022857143		
+856	Joyce	choice	J3s	C3s	coll. unfortunate choice	126	B			NP0	NN1	C	0.18	0.06		
+857	Kahluah	clue	k0l8	k.lu	idiom have a clue	128	B			NP0	NN1	I+	0.33	0.0825		1
+858	Iraq	wreck	Irak	.rEk	idiom things are going from wreck to ruin	122	B			NP0	NN1	E+	0.37	0.0925		1
+859	Genoan	genuine	JEn0w0n	JEnu.In	coll. the genuine article	96	B			NP0	AJ0	C	0.39	0.055714287		
+860	Korea	carrier	k0ri0.	k&ri0r	coll. carrier girl	132	B			NP0	NN1	R	0.28	0.046666667	l	
+861	Orly	early	OrlI	9rlI	proverb the early bird gets the worm	250	B	see warm		NP0	AJ0	S+	0.29	0.0725		
+862	Ruth	truth	.rUT	trUT	proverb truth is stranger than fiction	200	B			NP0	NN1	S+	0.07	0.0175		
+863	acclaim	a clam	0kl4m	0kl&m	coll. clam bake	6	T			NN1	AT0 NN1	R	0.27	0.054		
+864	adder	utter	&d0r	^?0r	coll. utter confusion	8	B			NN1	AJ0	C	0.39	0.0975		
+865	addict	attic	&dIkt	&?Ik.	coll. attic rendevouz	8	B			NN1	NN1	R	0.19	0.038		
+866	almond	arm and	a.m0nd	arm0nd	idiom cost an arm and a leg	11	B	good example for a crappy pun b/c there's no 2nd script		NN1	NN1 CJC	E+	0.04	0.006666667		
+867	ambivalence	ambulance	&mbIv0l0ns	&mb.j0l0ns	coll. ambulance chasers	12	B	syllable lost		NN1	NN1	R	1.1	0.11		1
+868	antic	antique	&n?Ik	&ntik	coll. antique collector	13	B			NN1	NN1	R	0.36	0.072		
+869	author	other	OT0r	^D0r		19	B	sem. field		NN1	AJ0		0.51	0.1275		
+870	bazaar	bizzare	b0zar	bizar	coll. bizarre experience	25	B			NN1	AJ0	C	0.26	0.052		
+871	beaver	fever	biv0r	fiv0r	coll. feaver pitch	26	B			NN1	NN1	R	0.66	0.132		
+872	belly	very	bElI	vErI		28	B	syntax prevent much else from being there but very		NN1	AV0		0.29	0.0725		
+873	blight	white	bl1t	.w1t	coll. white supremacy	31	B			NN1	AJ0	R	0.65	0.1625		
+874	bottle	battle	ba?0l	b&?0l	coll. battle fatigue	33	B	WS confused w/ metal fatigue		NN1	NN1	R	0.18	0.036		
+875	bourbon	urban	burb0n	.9rb0n	coll. urban renewal	34	B	see rum		NN1	NN1	C	0.51	0.085		
+876	cedar	see the	sid0r	siD0.	coll. cedars of Lebanon	44	B			NN1	VVB AT0	I	0.08	0.016		
+877	cervix	service	s9rvIks	s9rvI.s	coll. service station	45	B			NN1	NN1	R	0.1	0.014285714		
+878	clue	glue	klu	glu		50	B			NN1	NN1		0.11	0.036666665		
+879	cod	cold	ka.d	k5ld	coll. cold war	51	B			NN1	AJ0	R	0.33	0.0825		
+880	creche	crash	kr4S	kr&S	coll. crash diet	58	B		French	NN1	NN1	R	0.27	0.0675		
+881	crossroad	crossword	krasr5.d	krasw9rd	coll. crossword puzzle	59	B			NN1	NN1	R	0.55	0.06875		
+882	drogue	drug	dr5g	dr^g	coll. drug store	70	B			NN1	NN1	R	0.28	0.07		
+883	due	blue	d.u	blu	coll. blue horizon	71	B			NN1	AJ0	C	0.46	0.15333334		
+884	earring	hearing	.6rIN	h6rIN	coll. hearing aid	74	B			NN1	AJ0	C	0.07	0.014		
+885	elf	shelf	.Elf	SElf	coll. shelf space	76	B			NN1	NN1	R	0.52	0.13		
+886	epoch	pock	ipak	.pak	coll. pock-marked	78	B			NN1	NN1	R	0.13	0.0325	e	1
+887	eunuch	unique	jun0k	junik	coll. unique experience	80	B			NN1	AJ0	C	0.26	0.052	e	
+888	eyrie	eerie	Eri	iri	coll. eerie feeling	82	B			NN1	AJ0	C	0.29	0.096666664		
+889	fat	cat	f&t	k&t	quote the fog comes on ...	68	B	quote identified correctly?		NN1	NN1	Q+	0.44	0.14666666		
+890	feed	speed	.fid	spid	coll. speed limit	85	B			NN1	NN1	R	0.33	0.0825		
+891	fig	big	fIg	bIg	idiom I'm a big boy now	87	B			NN1	NN1	E+	0.38	0.12666667		
+892	file	vile	f1l	v1l	coll. vile idea	87	B			NN1	AJ0	C	0.14	0.046666667		
+893	flea	pea	fli	p.i	idiom thick as pea soup	89	B			NN1	NN1	E+	0.29	0.096666664		
+894	floor play	foreplay	flOr	f.Or	coll. foreplay	89	B	just morpheme		NN0 NN1	NN1	R	0.06	0.015		
+895	fun	fund	f^n.	f^nd	coll. fund raiser	94	B			NN1	NN1	R	0.09	0.0225		
+896	genital	gentle	JEnIt0l	JEn.?0l	coll. gentle persuasion	96	B			AV0	AV0	C	0.27	0.03857143		1
+897	glass	grass	gl&s	gr&s	coll. grass widow	98	B			NN1	NN1	R	0.11	0.0275		
+898	graft	graf (Zeppelin)	graft	graf.	coll. Graf Zeppelin	100	B	title ~ PropR		NN1	NP0	F	0.07	0.014		
+899	gust	ghost	g^st	g5st	coll. ghost story	103	B			NN1	NN1	R	0.29	0.0725		
+900	heir	hair	.7r	h7r	coll. heir removal	110	B			NN1	NN1	R	0.07	0.023333333		
+901	herd	hard	h9rd	hard	idiom do it the hard way	110	B			NN1	AJ0	E+	0.29	0.0725		
+902	hippie	happy	hIpI	h&pI	title happy birthday to you	111	B			NN1	AJ0	Q+	0.28	0.07		
+903	homily	family	hamIlI	f&mIlI	coll. family woman	112	B			NN1	NN1	R	0.56	0.093333334		
+904	house	horse	h2.s	hOrs	coll. horse opera	114	B			NN1	NN1	R	0.33	0.0825		
+905	hurt	heart	h9rt	hart	coll. heart-to-heart	114	B			NN1	NN1	B	0.29	0.0725		
+906	interval	integral	In?0rv0l	In?0gr0l	coll. an integral part	121	B			NN1	AJ0	C	1.44	0.18		
+907	ire	higher	.10r	h10r	coll. higher things	122	B			NN1	AJ0	C	0.07	0.0175		
+908	jam	damn	J&m	d&m	coll. one thing after another	124	B			NN1	AJ0	I	0.66	0.22		
+909	jenny	any	JEnI	.EnI	coll. spinning jenny	124	B			NN1	AT0	C	0.34	0.085		
+910	jowl	jaw	J2l	JO.	coll. cheek by jowl	125	B			NN1	NN1	B	0.35	0.11666667		
+911	jungle	jingle	J^Ng0l	JINg0l	title jingel bells	127	B			NN1	NN1	Q+	0.29	0.048333332		
+912	jut	jet	J^t	JEt	coll. jet set	127	B			NN1	NN1	R	0.26	0.086666666		
+913	lay	day	l4	d4	coll. day preacher	134	B			NN1	NN1	R	0.34	0.17		
+914	lemming	lemon	lEmIN	lEm0n	coll. lemon juice	136	B			NN1	NN1	R	0.2	0.04		
+915	lentil	Lent till	lEn?0l	lEntIl		136	B			NN1	NP0 PRP		0.21	0.035		
+916	lingo	bingo	lINg5	bINg5	coll. bingo game	139	B			NN1	NN1	R	0.66	0.132		
+917	litter	little	lI?0r	lI?0l	idiom every little bit helps	140	B			NN1	AJ0	I+	0.13	0.026		
+918	litter	bitter	lI?0r	bI?0r	idiom bitter pill	140	B	see also Swede		NN1	AJ0	I+	0.66	0.132		
+919	locust	low cost	l5k0st	l5kast	coll. low-cost food	141	B			NN1	AJ0 NN1	C	0.26	0.043333333	e	
+920	lore	lower	lO.r	l50r	coll. lower body	142	B			NN1	AJC	C	0.35	0.0875		
+921	lust	just	l^st	J^st		143	B			NN1	AJ0		1	0.25		
+922	mink	mint	mINk	mInt	coll. mint condition	150	B			NN1	AJ0	C	0.33	0.0825		
+923	nacelle	nasal	n0sEl	n4z0l	coll. nasal drops	156	B			NN1	AJ0	C	0.61	0.122	l	
+924	nay	May	n4	m4	coll. May day celebration	158	B			NN1	NP0	I	0.14	0.07		
+925	neap	neat	nip	nit	coll. neat trick	158	B			NN1	AJ0	C	0.18	0.06		
+926	nit	net	nIt	nEt	coll. net loss	159	B			NN1	NN1	R	0.2	0.06666667		
+927	noodle	new dill	nud0l	nudIl		160	B	post-punch explanation		NN1	AJ0 NN1		0	0	e	
+928	nook	book	nUk	bUk	coll. bookworm	160	B			NN1	NN1	R	0.66	0.22		
+929	notion	potion	n5S0n	p5S0n	coll. love potion	161	B			NN1	NN1	R	0.66	0.132		
+930	nudge	fudge	n^J	f^J	coll. fudge sundae	162	B			NN1	NN1	R	1	0.33333334		
+931	nymph	lymph	nImf	lImf	coll. lymph glands	162	B			NN1	NN1	R	0.23	0.0575		
+932	owl	old	5l.	5ld	proverb there's no fool like an old fool	167	B			NN1	AJ0	S+	0.09	0.03		
+933	peasant	pleasant	p.Ez0nt	plEs0nt		172	B	what?		NN1	AJ0		0.15	0.021428572		
+934	pheasant	peasant	fEz0nt	pEz0nt	quote oh what a rogue and peasant slave (Hamlet)	174	B			NN1	NN1	Q+	0.23	0.038333334		
+935	plinth	prince	plInT	prInT	coll. prince charming	178	B			NN1	NN1	I	0.11	0.022		
+936	Poe	poor	p5.	p8r	idiom the poor man's something	178	B			NN1	AJ0	I+	0.34	0.11333334		
+937	quiff	cliff	kwIf	klIf	coll. cliff hanger	189	B			NN1	NN1	R	0.25	0.0625		
+938	rabbit	rapid	r&bIt	r&pId	coll. rapid transit	190	B			NN1	AJ0	C	0.25	0.05		
+939	raccoon	wreck and (ruin)	r&kun	rEk0n	idiom go to wreck and ruin	190	B			NN1	NN1 CJC	E+	0.45	0.09	l	
+940	raid	great	.r4d	gr4t	title the Great Skelton's music guide	191	B			NN1	AJ0	Q+	0.47	0.1175		
+941	rail	real	r4l	ril	idiom the real thing	191	B		New York accent	NN1	AJ0	I+	0.29	0.096666664		
+942	rear	near	r6r	n6r	coll. in the near future	193	B			NN1	AJ0	I	0.31	0.10333333		
+943	remorse	Morse	rImOrs	..mOrs	coll. morse code	194	B			NN1	NN1	R	0.13	0.021666666		1
+944	rube	rude	rub	rud	coll. rude shock	199	B			NN1	AJ0	C	0.21	0.07		
+945	rye	right	r1.	r1t	coll. dry sense of humor	200	B			NN1	AJ0	I	0.07	0.023333333		
+946	sailfish	selfish	s4lfIS	sElfIS	coll. selfish motives	202	B			NN1	AJ0	C	0.26	0.043333333		
+947	samovar	some of our	s&m0var	s^m0var		202	B			NN1	PN1 PRP DPS		0.27	0.03857143		
+948	scheme	steam	skim	stim	coll. steam engine	204	B			NN1	NN1	R	0.14	0.035		
+949	scrotum	totem	skr5?0m	.t.5?0m	coll. totem pole	205	B			NN1	NN1	R	0.25	0.035714287		
+950	seek	sick	sik	sIk	coll. sick joke	206	B			NN1	AJ0	C	0.1	0.033333335		
+951	shad	sad	S&d	s&d	coll. a sad occasion	208	B			NN1	AJ0	C	0.09	0.03		
+952	shark	shock	Sark	Sa.k	coll. shock absorbers	208	B			NN1	NN1	R	0.03	0.0075		
+953	shay	jay	S4	J4	coll. jay walking	208	B			NN1	NN1	I	0.38	0.19		
+954	shock	shop	Sak	Sap	coll. shop talk	209	B			NN1	NN1	R	0.23	0.07666667		
+955	sincere	sear	sIns6r	...s6r	coll. sear sucker suit	211	B	what?		AJ0	NN1	R	0.28	0.046666667		1
+956	snore	shore	snOr	S.Or	coll. shore duty	214	B			NN1	NN1	R	0.27	0.0675		
+957	spaniel	Spanish	sp&nj0l	sp&n.IS	coll. Spanish Armada	216	B			NN1	AJ0	R	1.1	0.15714286		
+958	spice	space	sp1s	sp4s	coll. aerospace industry	217	ne	just morpheme		NN1	NN1	R	0.27	0.0675		
+959	steel	still	stil	stIl	idiom we can all still be friends	219	B			NN1	AV0	E+	0.1	0.025		
+960	stork	stark	stOrk	start	coll. stark naked	221	B			NN1	AV0	C	0.39	0.078		
+961	suite	seat	swit	s.it	coll. backseat driver	222	B			NN1	NN1	R	0.11	0.0275		
+962	swish	shish	swIS	S.IS	coll. shish kebab	224	B			NN1	NN1	F	0.28	0.07		
+963	tapir	tapered	t4p0r.	t4p0rd		226	B	quote?		NN1	AJ0		0.09	0.015		
+964	thigh	bi	T1	b1	coll. bi-focals	230	B	just morpheme		NN1	UNC	R	1	0.5		
+965	three	tree	Tri	tri	quote a partridge in a pear tree	230	B			CRD	NN1	Q+	0.2	0.06666667		
+966	tin	thin	tIn	TIn	idiom the thin red line	232	B			NN1	AJ0	E+	0.18	0.06		
+967	tongue	kung (fu)	t^N	kUN	coll. kung fu	233	B	just morpheme		NN1	UNC	F	0.44	0.14666666		
+968	totter	tartar	ta.?0r	tar?0r	coll. tartar sauce	235	B			NN1	NN1	R	0.04	0.006666667		
+969	tour	whore	t8r	hOr	coll. whore house	234	B			NN1	NN1	R	0.73	0.24333334		
+970	tram	damn	tr&m	d.&m	idiom one damn thing after another	235	B			NN1	AJ0	I+	0.14	0.035		
+971	trip-tease	strip-tease	.trIptiz	strIptiz	coll. striptease	236	B			NN1	NN1	R	0.1	0.0125		
+972	troll	droll	tr5l	dr5l	idiom a droll sense of humor	236	B			NN1	AJ0	E+	0.11	0.0275		
+973	tweet	sweet	twit	swit	coll. sweet music	238	B			NN1	AJ0	C	0.44	0.11		
+974	vamp	lamp	v&mp	l&mp	coll. lamp light	242	B			NN1	NN1	R	0.44	0.11		
+975	vest	vast	vEst	v&st	coll. vast mistake	244	B			NN1	AJ0	C	0.2	0.05		
+976	vice	nice	v1s	n1s	idiom what's a nice girl like you doing ...	245	B			NN1	AJ0	E+	0.66	0.22		
+977	visa	these are	vis0.	Dis0r		246	ne	what?		NN1	DT0 VBB		0.42	0.084		
+978	vise	wise	v1s	w1z	coll. wise guy	246	B			NN1	AJ0	C	0.15	0.05		
+979	vowel	bowel	v20l	b20l	coll. bowel movement	247	B			NN1	NN1	R	0.44	0.11		
+980	whore	horror	hOr..	hOr0r	coll. horror show	253	B			NN1	NN1	R	0.11	0.022		-1
+981	yard	hard	jard	hard	idiom it's a hard life	259	B			NN1	AJ0	E+	0.44	0.11		
+982	yarn	darn	jarn	darn	coll. any damn thing	259	B			NN1	AJ0	I	1	0.25		
+983	bust	bus	bast	bas.	coll. bus stop	39	B			NN1	NN1	R	0	0		
+984	pun	pen	pan	pEn	coll. pen pal	184	B			NN1	NN1	R	0	0		
+985	bourbon	urban	b9rb0n	.9rb0n	coll. urban life	199	B			NN1	AJ0	C	0	0		
+986	sheik	silk	Si.k	sIlk	coll. silk veil	209	B	good example for much phon. dist. and collocation recoverability		NN1	NN1	R	0	0		
+987	Rhodes scholared	rose colored	r5dskal0rd	r5.zk^l0rd	idiom rose-colored glasses	196	B			NP0 NN1	AV0 AJ0	I+	0.39	0.039		
+988	cane chew	can't you	k4nCU	k&nC0	title can't you hear me calling, ...	42	T			NN0 NN1	VM0 XX0 PNP	Q+	0.56	0.112		
+989	highway cop	I wake up	h1w4kap	.1w4k^p		111	T			NN0 NN1	PNP VVB AVP	P	0.29	0.04142857		
+990	liner pier	lyin' up here	l1.n0rp6r	l1In0.p6r		139	T			NNO NN1	VVG P AV0		0.14	0.015555556		
+991	H heaver	achiever	4Chiv0r	0C.iv0r	coll. late achiever	105	B			ZZ0 NN1	NN1	C	0.36	0.05142857		
+992	opera-tunist	opportunist	ap0r0tunIst	ap0r.tunIst		236	B	see tune only morpheme		NN0 NN1	NN1		0.04	0.0036363637		
+993	Oxo-gin	oxygen	aks0JIn	aksIJ0n	coll. breathe oxygen	167	B			NP0 NN1	NN1	I	0.01	0.0014285714		
+994	knock need	knock knee	naknid	nakni.	coll. knock knee	158	B	WS		NN0 NN1	NN0 NN1	R	0.11	0.018333333		
+995	Nostrum Damus	Nostradamus	nastr0md4m0s	nastr0.d4m0s		161	B			UNC NP0	NP0		0.14	0.011666667		
+996	Umber Ella	umbrella	^mb0rEl0	^mb.rEl0	_def.	239	ne			NN0 NP0	NN1		0.04	0.005		1
+997	clip-sew	calipso	k.lIps5	k0lIps5	coll. calipso music	49	B			NN1	NN1	R	0.07	0.01		-1
+998	clock	cock	klak	k.ak	coll. cocksucker	49	B	I knew it was out there		NN1	NN1	R	0.06	0.015		
+999	clods	gods	kladz	g.adz	idiom chariot of the gods	49	B			NN1	NN1	I+	0.17	0.034		
+1000	bugger	beggar	b^g0r	bEg0r	title beggar's opera	37	B			NN1 POS	NN1 POS	Q+	0.26	0.052		
+1001	harpies	Harper's	harpI.z	harp0rz	title Harper's Bazaar	107	B			NN1	NP0 POS	Q+	0.05	0.007142857		
+1002	sheik	sheep	Sik	Sip	idiom wolf in sheep's clothing	209	B			NN1 POS	NN1 POS	E+	0.23	0.07666667		
+1003	teensters'	teamsters'	tinst0rz	timst0rz	coll. teamsters' union	228	B			NN1 POS	NN1 POS	R	0.14	0.0175		
+1004	ale	all	4l	Ol	proverb all's well that ends well	10	B	see ale-hell		NN1	NN1	S+	0.29	0.145		
+1005	artichoke	architect	ar?IC5k.	arkItEkt		16	B	what?		NN1	NN1		1.4	0.175		
+1006	bitch	stitch	.bIC	stIC	proverb a stitch in time saves nine	30	B			NN1	NN1	S+	0.54	0.135		
+1007	bloat	boat	bl5t	b.5t	title row, row, row your boat	31	ne	env. adjusted		NN1	NN1	Q+	0.06	0.015		
+1008	bride	bread	br1d	brEd	idiom which side one's bread is buttered on	25	B	see barter		NN1	NN1	E+	0.3	0.075		
+1009	burp	bird	b9rp	b9rd	idiom a little bird told me	38	B			NN1	NN1	S+	0.44	0.11		
+1010	conversation	conservation	kanv0rs4S0n	kans0rv4S0n		54	B	metathesis!		NN1	NN1		1.66	0.1509091		
+1011	cranes	rain	kr4nz	.r4n.	title the rain in spain ...	57	B	sg-pl adjustment		NN2	NN1	Q+	0.35	0.07		
+1012	cut	cup	k^t	k^p	idiom my cup runneth over	61	B			NN1	NN1	Q+	0.31	0.10333333		
+1013	dace	days	d4s	d4z	idiom happy days are here again	62	B			NN1	NN2	Q+	0.07	0.023333333		
+1014	denier	then you	d0n.6r	D0nj0.		65	B			NN1	CJS PNP		0.47	0.07833333	l	
+1015	dog	fog	dag	fag	quote the fog comes on ...	68	B	where?		NN1	NN1	Q+	1	0.33333334		
+1016	era	error	6r0.	Er0r	coll. Churchill Era	78	B			NN1	NN1	R	0.33	0.0825		
+1017	fertilization	naturalization	f9rt..Il0z4S0n	n&.C0r0l0z4S0n	_def.	86	B	what?		NN1	NN1		1.48	0.105714284		-1
+1018	flame	fame	fl4m	f.4m	idiom s.o.'s fame has spread	88	B	see also indigo		NN1	NN1	I+	0.06	0.015		
+1019	flute	fruit	flut	frut		90	B		Chinese	NN1	NN1		0.11	0.0275		
+1020	gas	guess	g&s	gEs	idiom your guess is as good as mine	96	B			NN1	NN1	E+	0.19	0.06333333		
+1021	groom	broom	grum	brum	proverb a new broom sweeps clean	102	B			NN1	NN1	S+	0.31	0.0775		
+1022	gull	lull	g^l	l^l	idiom lull in the conversation	103	B			NN1	NN1	I+	1	0.33333334		
+1023	hams	hands	h&m.z	h&ndz	idiom all hands on deck	106	B			NN2	NN1	E+	0.2	0.04		
+1024	herd	bird	h9rd	b9rd	proverb a bird in the hand ...	110	B			NN1	NN1	S+	1	0.25		
+1025	honey	money	h^nI	m^nI		113	B	what?		NN1	NN1		0.52	0.13		
+1026	interloper	antelope	In?0rl5p0r	&n?I.l5p..	idiom where the deer and antelope play	121	B			NN1	NN1	E+	0.38	0.038		1
+1027	lays	days	l4z	d4z	title oh, the days dwindle down ...	134	B	see also May		NN2	NN2	Q+	0.34	0.11333334		
+1028	lesion	legion	liZ0n	liJ0n	coll. French Foreign Legion	136	B			NN1	NN1	R	0.31	0.062		
+1029	lewd	Lord	lu.d	lOrd	quote the lord giveth, and the lord taketh away	137	B			NN1	NN1	Q+	0.33	0.0825		
+1030	lice	lights	l1.s	l1ts	idioms head lice head lights	137	B			NN1	NN2	R	0.07	0.0175		
+1031	loining	learning	l3.nIN	l9rnIN	quote a little learning is a dangerous thing (Pope)	141	B			NN1	NN1	Q+	0.33	0.055		
+1032	lynch	inch	lInC	.InC	proverb an inch is as good as a mile	143	B			NN1	NN1	S+	0.06	0.015		
+1033	malicious	militia	m0lIS0s	mIlIS0.		145	B			NN1	NN1		0.08	0.011428571		
+1034	maneuver	manure	m0nuv0r	m0n8..r	coll. horse manure	146	B			NN1	NN1	R	0.67	0.095714286		
+1035	mines	minds	m1n.z	m1ndz	proverb  great minds think alike	220	B	see stink		NN2	NN1	S+	0.09	0.018		
+1036	nail	mail	n4l	m4l	idiom the mail must go through	156	B			NN1	NN1	Q+	0.14	0.046666667		
+1037	nudes	news	nudz	nu.z	title no news is good news (Wodehouse)	162	B			NN2	NN2	Q+	0.11	0.0275		
+1038	oak	joke	.5k	J5k	idiom the joke's on you	163	B			NN1	NN1	I+	0.52	0.17333333		
+1039	pain	rain	p4n	r4n	quote the rain in Spain ...	216	B	see spay		NN1	NN1	Q+	0.52	0.17333333		
+1040	parking	parting	parkIN	par?IN	idiom parting is such sweet sorrow	170	B			NN1	NN1	E+	0.66	0.11		
+1041	peepers	people	pip0rz	pip0l.	proverb people who live in glass houses...	113	B	see hose		NN2	NN1	S+	0.38	0.06333333		
+1042	prose	rose	pr5z	.r5z	proverb a rose by any other name would smell as sweet	183	B			NN1	NN1	S+	0.16	0.04		
+1043	pup	cup	p^p	k^p	quote my cup runneth over	185	B			NN1	NN1	Q+	0.24	0.08		
+1044	rube	rub	rub	r^b	quote aye, there's the rub	199	B			NN1	NN1	Q+	0.28	0.093333334		
+1045	rum	room	r^m	rUm	quote there's more room to fight	199	B	syntax not identical ?!		NN1	NN1	Q+	0.28	0.093333334		
+1046	seasons	seasonings	siz0..nz	siz0nINz		205	B			NN2	NN2		0.35	0.04375		-1
+1047	servant	serpent	s9rv0nt	s9rp0nt		207	B			NN1	NN1		0.66	0.09428571		
+1048	snail	trail	sn4l	tr4l	title there's a long, long trail a-winding	214	B			NN1	NN1	Q+	0.63	0.1575		
+1049	snitch	stitch	snIC	stIC	proverb a stitch in time saves nine	214	B			NN1	NN1	S+	0.34	0.085		
+1050	stalk	stork	stO.k	stOrk		218	B			NN1	NN1		0.04	0.008		
+1051	strain	rain	str4n	..r4n	quote into every life a little rain must fall	221	B			NN1	NN1	Q+	0.15	0.03		
+1052	teal	tail	til	t4l		227	B			NN1	NN1		0.27	0.09		
+1053	thing	think	TIN.	TINk	quote I think that I shall never see ...	230	B			NN1	VVB	Q+	0.18	0.045		
+1054	tool	fool	tul	ful	proverb there's no fool like an old fool	233	B			NN1	NN1	S+	1	0.33333334		
+1055	tufts	tough	t^fts	t^f..	proverb when the going gets tough ...	237	B			NN2	NN1	S+	0.15	0.03		
+1056	unction	action	^NkS0n	&.kS0n	proverb actions speak louder than words	240	B			NN1	NN1	S+	0.66	0.11		
+1057	urn	turn	.9rn	t9rn	proverb one good turn deserves another	240	B			NN1	NN1	S+	0.07	0.0175		
+1058	vassal	vessel	v&s0l	vEs0l		243	B			NN1	NN1		0.19	0.038		
+1059	vicar	liquor	vIk0r	lIk0r	proverb candy is dandy, but liquor is quicker	245	B			NN1	NN1	S+	0.44	0.088		
+1060	vigil	Virgil	vI.JIl	v9rJIl		245	B			NN1	NP0		0.33	0.055		
+1061	word	work	w9rd	w9rk	proverb a woman's work is never done	255	B			NN1	NN1	S+	0.52	0.13		
+1062	word	bird	w9rd	b9rd	proverb a bird in the hand ...	255	B			NN1	NN1	S+	0.66	0.165		
+1063	yule	fool	jul	ful	proverb there's no fool like an old fool	261	B			NN1	NN1	S+	1	0.33333334		
+1064	God I	gotta	ga?1	ga?0	idiom if you gotta go ...	99	T	atrocious, elliptical		NN1 PNP	VM0 TO0	S+	0.29	0.0725		
+1065	abbreviate	a brie we ate	0brivi4t	0briwi4t		5	ne			VVB	AT0 NN1 PNP VVD		0.08	0.01		
+1066	affiliate	a fill he ate	0fIl.i4t	0fIlhi4t		9	ne			VVB	AT0 NN1 PNP VVD		0.07	0.00875		
+1067	afflict	a flick	0flIkt	0flIk.	_def.	9	ne			VVB	ATO NN1		0.07	0.011666667		
+1068	ain't	aunt	4nt	&nt	_def.	9	ne			VBB XX0	NN1		0.27	0.09		
+1069	air	err	7r	9r	proverb to err is human, but to forgive, divine	92	B	see forklift		VVI	VVI	S+	0.3	0.15		
+1070	amends	a men's	0mEndz	0mEn.z	_def.	12	ne			VVZ	AT0 NN1 POS		0.11	0.018333333		
+1071	bait	beat	b4t	bit	idiom you can't beat it	22	B			VVB	VVB	E+	0.28	0.093333334		
+1072	bead	beat	bid	bit	coll. beat it	25	B			VVI	VVI	I	0.09	0.03		
+1073	beer	be	b6r	bi.	quote to be or not to be	27	B	beer (v.) is of course pushing it, but so are puns in general, figa, and again, 		VVI	VBI	Q+	0.32	0.10666667		
+1074	beguile	big girl	bIg1.l	bIg9rl	idiom she's a big girl now	27	B			VVB	AJ0 NN1	E+	0.33	0.055		
+1075	bend	end	bEnd	.End	idiom the be-all and end-all	28	B			VVB	VVB	E+	0.21	0.0525		
+1076	bind	mind	b1nd	m1nd	idiom mind over matter	30	ne	desp. WC B,3		VVB	NN1	E+	0.44	0.11		
+1077	bisex	bisect	b1sEks	b1sEkt	coll. bisecting angles	30	B			VVG	VVG	C	0.34	0.05666667		
+1078	bleach	breach	bliC	briC	idiom breach of promise	31	B			VVI	VVI	I+	0.11	0.0275		
+1079	blouse	blows	bl2z	bl5z		31	B		not a pun, just dialectal variation	VVZ	VVZ		0.29	0.0725		
+1080	braise	praise	br4z	pr4z	quote praise Him who made it	34	B	what?		VVB	VVB	Q+	0.14	0.035		
+1081	bullet	pull it	bUlIt	pUlIt		38	B	Pun intr./Targ. trans. + O		VVB	VVB PNP		0.14	0.028		
+1082	cauterize	caught a rise	kO?0r1z	ga?0r1z		44	B		Cockney	VVB	VVB AT0 NN1		0.36	0.05142857		
+1083	cavort	quart	k0vOrt	k.wOrt	_def.	44	B		Swedish	VVI	NN1		0.12	0.02		1
+1084	chant	shan't	C&nt	S&nt		46	T	WS had chant-can't		VVB	VM0 XX0		0.19	0.0475		
+1085	cost	lost	kast	last	title love's labour lost	56	B			VVN	AJ0	Q+	0.66	0.165		
+1086	craze	praise	kr4z	pr4z	title praise the lord and pass the ammunition	57	B	spoon w/parse-pass		VVI	VVI	Q+	0.23	0.0575		
+1087	crow	go	kr5	g.5	idiom if you gotta go...	59	B			VVI	VVI	S+	0.14	0.046666667		
+1088	crunch	lunch	kr^nC	.l^nC	idiom out to lunch	59	B			VVI	NN1	I+	0.23	0.046		
+1089	cull	call	k^l	kOl	idiom don't call us, we'll call you	60	B			VVB	VVB	E+	0.28	0.093333334		
+1090	depart	the part	dIpart	D0part		65	T			VVB	AT0 NN1		0.06	0.01		
+1091	deploy	the ploy	dIpl3	D0pl3		65	B			VVB	AT0 NN1		0.06	0.012		
+1092	dry	cry	dr1	kr1	idiom see a grown man cry	71	B			AJ0	VVB	E+	0.52	0.17333333		
+1093	earn	learn	.9rn	l9rn	coll. live and learn	73	B			VVB	VVB	B	0.08	0.02		
+1094	eat	beat	.it	bit	idiom if you can't beat them, ...	74	B			VVI	VVI	S+	0.21	0.07		
+1095	elate	be late	il4t	.l4t	idiom better late than never	75	B	WS elate-late		VVB	VBB AJ0	S+	0.13	0.0325		
+1096	elevate	I'll have 8	El0v4t	1l0v4t		76	ne			VVB	PNP VM0 PN1		0.28	0.046666667		
+1097	eloping	loping	il5pIN	.l5pIN	idiom go loping down the road	76	B			VVG	VVG	E+	0.13	0.021666666		1
+1098	enclose	in clothes	Enkl5.z	Inkl5Dz		77	B	,3 of Pun salvaged through ellipsis, I like it, complicated		VVB	PRP NN2		0.34	0.04857143		
+1099	endow	indeed	End2.	Indid		77	ne			VVB	AV0		0.6	0.12		
+1100	evidence	have a dance	.EvId0ns	h&v0d&ns	idiom may I have a dance with you	80	B			VVB	VHB AT0 NN1	I+	0.52	0.065		
+1101	field	feel	fild	fil.	proverb you're only as young as you feel	86	B			VVB	VVB	S+	0.11	0.0275		
+1102	flail	fail	fl4l	f.4l	idiom words fail me	88	B			VVB	VVB	E+	0.06	0.015		
+1103	foist	first	f3.st	f9rst		90	T			VVB	AV0		0.33	0.066		
+1104	forklift	forgive	fOrklIft	f0rg.Iv.	proverb to err is human, but to forgive, divine	92	B			VVI	VVI	S+	0.65	0.08125		
+1105	fry	try	fr1	tr1	idiom try harder	94	B			VVB	VVB	I+	0.52	0.17333333		
+1106	grow	glow	gr5	gl5	idiom glow with pride	103	B			VVI	VVI	E+	0.13	0.043333333		
+1107	grow	blow	gr5	bl5	coll. blow your mind	103	B			VVB	VVB	I	0.44	0.14666666		
+1108	herd	hurt	h9rd	h9rt	idiom you always hurt the one you love	110	B			VVI	VVI	E+	0.09	0.0225		
+1109	hew	you	hju	.ju		110	T	what?		VVI	PNP		0.08	0.026666667		
+1110	immerse	worse	Im9rs	.w9rs	idiom from bad to worse	117	T			VVI	AJC	E+	1.1	0.22		1
+1111	immolate	him more late	.Im0.l4t	hImOrl4t	foreigner talk	117	T			VVB	PNP AJC		0.36	0.045		
+1112	impale	in pail	Imp4l	Inp4l	coll. pail  bucket	118	T			VVB	PRP NN1	R	0.11	0.022		
+1113	inhale	in hell	Inh4l	InhEl		119	B			VVI	PRP NN1		0.26	0.052		
+1114	inhibit	inhabit	InhIbIt	Inh&bIt	quote they shall inhabit the earth	119	B			VVI	VVI	Q+	0.28	0.04		
+1115	inoculate	immaculate	Inakjul4t	Im&kjulIt	coll. immaculate conception	120	T			VVB	AJ0	C	0.6	0.06666667		
+1116	insert	assert	Ins9rt	0.s9rt	idiom assert one's masculinity	120	B			VVI	VVI	I+	0.11	0.018333333	e	
+1117	jab	'd you have	J.&b	J0&v		123	B			VVB	VDD PNP VHI		0.25	0.0625		-1
+1118	joke	choke	J5k	C5k	coll. choke to death	125	B			VVI	VVI	I	0.18	0.06		
+1119	lacquer	like her	l&k0r	l1k0r		133	B			VVB	VVI PNP		0.22	0.044		
+1120	lath	laugh	l&T	l&f	proverb he who laughs last ...	134	B			VVZ	VVZ	S+	0.44	0.14666666		
+1121	lease	leave	lis	liv	idiom love it or leave it	135	B			VVB	VVB	S+	0.66	0.22		
+1122	let	met	lEt	mEt	idiom never met a man I didn't like	137	T			VMN	VVN	I+	0.38	0.12666667		
+1123	lop	top	lap	tap	coll. top banana	142	T			VVI	AJ0	C	0.38	0.12666667		
+1124	maimed	named	m4md	n4md	title a streetcar named desire	145	ne			VVN	VVN	Q+	0.11	0.0275		
+1125	neap	reap	nip	rip	quote as you sow, so shall ye reap	158	B			VVB	VVI	Q+	0.29	0.096666664		
+1126	needle	need all	nid0l	nidOl		158	B			VVB	VVB AT0		0.25	0.05		
+1127	nod	not	nad	nat		160	B	only morpheme, ok when part of the word		NN1	XX0		0.09	0.03		
+1128	paint	ain't	p4nt	.4nt	idiom ... isn't what it used to be	169	B			VVB	VBB XX0	E+	0.16	0.04		
+1129	park	bark	park	bark	idiom his bark is worse than his bite	170	T			NN1	NN1	E+	0.16	0.04		
+1130	parse	pass	pars	p&.s	title praise the lord and pass the ammunition	8	B	spoon w/craze-praise		VVB	VVB	Q+	0.21	0.0525		
+1131	pawn	upon	.pOn	0pan	quote return with your shields ...	172	B			VVB	PRP	Q+	0.32	0.08		
+1132	ponder	yonder	pand0r	jand0r	coll. wide blue yonder	179	B			VVB	VVB	C	1	0.16666667		
+1133	punch	lunch	p^nC	l^nC	coll. out to lunch	185	B			NN1	NN1	I	1	0.25		
+1134	raise	praise	.r4z	pr4z	quote I come to bury Cesar, not to praise him	191	B			VVI	VVI	Q+	0.24	0.06		
+1135	rate	ate	r4t	.4t	idiom something that I ate	192	B			VVD	VVD	I+	0.03	0.01		
+1136	razor	raise your	r4z.0r	r4zj0r	idiom raise eyebrows	192	B			VVI	VVI DPS	I+	0.09	0.015		
+1137	reap	weep	rip	wip	idiom read it and weep	192	B			VVB	VVB	I+	0.21	0.07		
+1138	reek	meek	rik	mik	quote the meek shall inherit the earth	194	T			VVB	VV0	Q+	0.66	0.22		
+1139	relapse	relax	rIl&ps	rIl&ks	coll. relax and enjoy	194	B			VVI	VVI	B	0.24	0.04		
+1140	repeat	repent	rIpi.t	rIpEnt	proverb marry in haste, repent in leisure	195	B			VVB	VVB	S+	0.38	0.06333333		
+1141	roil	rule	r3l	rul	quote Britain rule the waves	198	B			VVZ	VVZ	Q+	0.3	0.1		
+1142	ruminate	Roman ate	rum0n4t	r5m0n4t		200	B			VVB	NP0 VVD		0.27	0.03857143		
+1143	seek	sheik	sik	Sik	idiom sheik of Araby	206	T			VVB	NN1	I+	0.17	0.05666667		
+1144	sicken	thicken	sIk0n	TIk0n	idiom the plot thickens	210	B			VVZ	VVZ	I+	0.25	0.05		
+1145	skid	kid	skId	.kId	idiom I kid you not	211	B			VVB	VVB	I+	0.08	0.02		
+1146	slake	take	sl4k	t.4k	quote take five	212	B			VVI	VVI	Q+	0.4	0.1		
+1147	slink	sink	slINk	s.INk	idiom sink or swim	213	B			VVI	VVI	B+	0.06	0.012		
+1148	snow	snore	sn5.	snOr	_def.	214	ne			VVI	VVI		0.3	0.075		
+1149	stink	think	stINk	T.INk	proverb  great minds think alike	220	B			VVB	VVB	S+	0.32	0.064		
+1150	stray	stay	str4	st.4	idiom something is here to stay	221	B			VVI	VVI	E+	0.03	0.0075		
+1151	strike	like	str1k	..l1k	idiom I've never met a man I couldn't like	221	B			VVI	VVI	Q+	0.28	0.056		
+1152	tack	take	t&k	t4k	idiom I just can't take it anymore	225	B			VVI	VVI	I+	0.27	0.09		
+1153	sing	Thing	TIN	sIN	idiom it don't mean a thing ...	211	T			VVI	NN1	E+	0.11	0.036666665		
+1154	thumb	sum	T^m	s^m	idiom sum up a case	230	B			VVI	VVI	I+	0.11	0.036666665		
+1155	tinkle	twinkle	t.INk0l	twINk0l	title twinkle, twinkle, little star	232	B			VVB	VVB	Q+	0.13	0.018571429		
+1156	tramp	cramp	tr&mp	kr&mp	idiom cramp one's style	235	B			VVI	VVI	E+	0.16	0.032		
+1157	tryst	trust	trIst	tr^st	idiom in God we trust	236	B	wtf?		VVB	VVB	Q+	0.27	0.054		
+1158	underwrite	on the right	^nd0r1t	anD0r1t	idiom on the right side of the ledger	240	T			VV0	PRP AT0 AJ0	E+	0.31	0.044285715		
+1159	undulate	on the late	^ndj0l4t	0nD.0l4t		240	T			VV0	PRP AT0 AJ0		0.43	0.05375	e	
+1160	ventilate	went till 8	vEn?0l4t	wEntIl4t		244	T			VV0	VVD PRP NN1		0.29	0.03625		
+1161	venture	went your	vEnC0r	wEn?0.	idiom go one's way	244	T			VV0	VVD DPS	E+	0.77	0.12833333		
+1162	wand	want	wand	want	coll. anything you want	249	B			VVB	VVB	I	0.09	0.0225		
+1163	wane	rain	w4n	r4n	idiom it never rains but it pours	249	B			VVZ	VVZ	E+	0.14	0.046666667		
+1164	west	rest	wEst	rEst		251	B		rabbit talk	VVB	VVB		0.14	0.035		
+1165	whine	shine	w1n	S1n	idiom rise and shine	252	B			VVB	VVB	B+	1	0.33333334		
+1166	wilt	will	wIlt	wIl.	coll. I will	253	B			VVB	VMD	I	0.07	0.0175		
+1167	worship	war-ship	w0rSIp	wOrSIp		255	T			NN1	NN1		0.25	0.041666668		
+1168	yawn	you're on	j..On	j8ran	coll. you're on	259	B	P: exclamation		VV0	PNP VBB AVP	P	1.29	0.258	e	-1
+1169	yearn	earn	j9rn	.9rn	idiom earn one's way	259	B			VVI	VVI	I+	0.1	0.025		
+1170	yonder	(a)re on their	jand0r	ranD0r	idiom on one's way home	260	T			PRP	VBB PRP DPS	I+	0.71	0.11833333		
+1171	zing	sing	zIN	sIN		262	ne	what?		VV0	VV0		0.07	0.023333333		
+1172	mend straight	menstruate	mEndstr4t	mEn.str4t		148	B			VVI AVP	VVI		0.11	0.012222222		
+1173	share an aid	serenade	S7r0n4d	sEr0n4d	quote serenade in the night 'neath a fair lady's window	254	B	see windrow		VVB AT0 NN1	VVI	Q+	0.38	0.054285713		
+1174	feed 'em	freedom	f.id0m	frid0m	idiom battle cry of freedom	85	T			VVB PNP	NN1	Q+	0.04	0.006666667		
+1175	trust Owens	throw stones	tr^st50nz	Tr5st5.nz	proverb people who live in glass houses...	113	B	see hose		VVI NP0	VVI NN2	S+	0.51	0.05666667		
+1176	watch her	water	waC0r	wa?0r	coll. Scotch and water	250	B			VVI PNP	NN1	B	0.66	0.132		
+1177	wore cologne	walk alone	wOrk0l5n	wO.k0l5n		52	B	see cologne		VVB	VVB		0.03	0.00375		
+1178	blown apart	Bonaparte	bl5n0part	b.5n0part	coll. Napoleon Bonaparte	31	B			VVB AV0	NP0	I	0.06	0.006666667		
+1179	ginned	sinned	JInd	sInd	idiom forgive me, father, for I have sinned	97	B			VVN	VVN	Q+	0.38	0.095		
+1180	invading	evading	Inv4dIN	i.v4dIN	idiom evade the issue	121	B			VVG	VVG	I+	0.25	0.035714287		
+1181	open	hopin'	.5p0n	h5pIn	idiom keep hoping	165	B			AV0	VVG	I+	0.07	0.014		
+1182	zebra	the bra	zibr0	D0bra		261	T			NN1	AT0 NN1		0.84	0.168	e	

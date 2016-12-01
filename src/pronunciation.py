@@ -94,7 +94,7 @@ def getPunPartners(word, w2p=None, p2w=None):
         p2w = readFromJsonFile('p2w.dict')
         if not p2w:
             p2w = mapPronunciationToWords()
-    out = []
+    out = [word]
     if word in w2p:
         for p in w2p[word]:
             out.extend(p2w[p])
